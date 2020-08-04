@@ -1,0 +1,17 @@
+CREATE TABLE IF NOT EXISTS `mtf_shorturl` (
+	`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '序号',
+	`code` varchar(20) DEFAULT '' COMMENT '编码',
+	`md5` char(32) DEFAULT '' COMMENT 'MD5',
+	`url` varchar(2048) DEFAULT '' COMMENT '地址',
+	`hits` int(11) DEFAULT '0' COMMENT '浏览次数',
+	`add_time` datetime DEFAULT NULL COMMENT '创建时间',
+	`upd_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+	`des` varchar(255) DEFAULT '' COMMENT '描述用途和使用场景',
+	`addon` varchar(100) DEFAULT '' COMMENT '附加参数',
+	PRIMARY KEY (`id`),
+	UNIQUE KEY `id` (`id`),
+	UNIQUE KEY `md5` (`md5`),
+	KEY `id_2` (`id`),
+	KEY `code_2` (`code`),
+	KEY `md5_2` (`md5`)
+	) ENGINE=MyISAM  DEFAULT CHARSET=utf8mb4 COMMENT='短网址' AUTO_INCREMENT=1 ;

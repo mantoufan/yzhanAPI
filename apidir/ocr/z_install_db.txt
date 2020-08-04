@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS `mtf_img_deskew` (
+  `id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '序号',
+  `img` varchar(25) DEFAULT '' COMMENT '图片名',
+  `md5` char(32) DEFAULT '' COMMENT 'MD5',
+  `code` varchar(3) DEFAULT '' COMMENT '状态码',
+  `engine` varchar(10) DEFAULT '' COMMENT '引擎',
+  `results` varchar(1000) DEFAULT '' COMMENT '结果',
+  `msg` varchar(255) DEFAULT '' COMMENT '消息',
+  `hits` int(11) DEFAULT '0' COMMENT '调用次数',
+  `add_time` datetime DEFAULT NULL COMMENT '创建时间',
+  `upd_time` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+  `des` varchar(100) DEFAULT '' COMMENT '描述用途和使用场景',
+  `addon` varchar(100) DEFAULT '' COMMENT '附加信息（如九点的请求ID）',
+  PRIMARY KEY (`id`),
+  KEY `md5` (`md5`),
+  KEY `id` (`id`),
+  KEY `des` (`des`),
+  KEY `addon` (`addon`),
+  KEY `img` (`img`),
+  KEY `code` (`code`),
+  KEY `engine` (`engine`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8mb4 COMMENT='图像倾斜校正接口' AUTO_INCREMENT=1 ;

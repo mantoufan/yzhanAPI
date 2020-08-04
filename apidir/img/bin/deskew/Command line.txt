@@ -1,0 +1,44 @@
+A-PDF Deskew Command line (pdfdwcmd.exe) is a Windows console utility that Deskew the PDF or Tiff file. The pdfdwcmd.exe is included in the download package already. You can find it at the installation directory, generally, it is located in C:\program files\A-PDF Deskew.
+
+
+USAGE:
+PDFDWCMD.exe <input pdf> <output pdf> [-S<password>] 
+             [-R<page range>] [-A<Angle range>] 
+             [-W<Neglect Width>] [-H<Neglect Height>] 
+             [-Q<JEPG Quality>]
+
+Parameters:
+ Input File: Source PDF or Tiff file.
+ 
+[-S<password>]: Password of source PDF file if application.
+ Output PDF: Output PDF file, if it is not specified, the 
+             output file will be same asthe input file.
+ [-R<page range>]: Sample 1,2,5-10. Default(null) is all
+ [-A<Angle range>]:Deskew Angle in degrees.
+ [-W<Neglect Width>]: Image width less then the value will 
+                      be neglected.
+ [-H<neglect Height>]:Image heigh less then the value will 
+                      be neglected.
+ [-Q<JEPG Quality>]: Default is 85.
+
+
+ Example1:
+ pdfdwcmd "C:\pdfs\source.pdf" "C:\pdfs\destination.pdf" 
+          -S"123" -A30 -H500 -W400 -Q90
+
+ Example2:
+ pdfdwcmd "C:\tiffs\source.tiff" "C:\tiffs\destination.tiff" 
+          -A30 -H500 -W400 -Q90
+
+ note: "123" is a password for Source PDF\tiff file 
+
+Return code:
+ 0: Success
+ 2: Input file does not exist
+ 3: Create output dir failed
+ 4: Load PDF\Tiff error
+ 5: Invalided Password
+ 6: Non-support Security
+ 7: Create output file failed
+ 8: Can not save to output file
+
