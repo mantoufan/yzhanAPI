@@ -132,7 +132,7 @@ if($api_action === 'answersheet') {// 答题卡识别
     
     // 模版解析
     $res = parseTpl($file_path, $_res_json, 'changde');
-    print_r($res);
+    
 
     // 根据识别类型切割结果
     $_a = explode('/', $file_path);
@@ -142,8 +142,8 @@ if($api_action === 'answersheet') {// 答题卡识别
     $_n = $_a[0] . '_' . 'visual.' . $_type; 
     $_f = get_dir_name($_n, $upload_path . '/')  . '/' . $_n;
     $editor->save($image, $upload_path . '/' . $_f, $_type === 'jpg' ? 'jpeg' : $_type);
-    echo 'https://'.$_SERVER['SERVER_NAME'].'/apidir/ocr/upload/' . $_f;
-    exit;
+    $res['img_visual'] = 'https://'.$_SERVER['SERVER_NAME'].'/apidir/ocr/upload/' . $_f;
+    output('success', $out_type, 200, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $res));
 }
 include('ocr_function.php');
 ?>

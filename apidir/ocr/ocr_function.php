@@ -186,13 +186,11 @@
                     if (!$_indexs) {
                         $res[$k] = '';
                     } else {
-                        $res[$k] = array(
-                            'layout_location' => array(),
-                        );
+                        $res[$k] = array();
                         foreach ($_indexs as $_k => $_index) {
-                            $res[$k]['layout_location'][] = $_res_json['results'][$_index];
+                            $res[$k][] = $_res_json['results'][$_index];
                         }
-                        $res[$k]['layout_location'] = sortNumberByPoints($res[$k]['layout_location']);
+                        $res[$k] = formatRes(sortNumberByPoints($res[$k]));
                     }
                 break;
                 default:// 默认返回文本
@@ -258,34 +256,47 @@
 
     // 将题号根据坐标，按顺序排序
     function sortNumberByPoints($results = array()) {
-        // $_ar_x = array();
-        // $_ar_x_differ = array();
-        // foreach($results as $k => $v) {
-        //     $_ar_x[] = floor($v['words']['words_location']['left']);
-        // }
-        // sort($_ar_x);
-        // foreach($_ar_x as $k => $v) {
-        //     if (isset($_ar_x[$k + 1])) {
-        //         $_ar_x_differ[$k] = $_ar_x[$k + 1] - $_ar_x[$k];
-        //     } 
-        // }
-        // sort($_ar_x_differ);
-        // $step = 36;
-        // foreach($_ar_x_differ as $k => $v) {
-        //     if ($v > 36) {
-        //         $step = $v;
-        //         break;
-        //     }
-        // }
-        // $step = max(36, $step / 2);
-
         $step = 100;
-        foreach($results as $k => $v) {
-            $results[$k]['h'] = round($v['words']['words_location']['left'] / $step);
+        foreach ($results as $k => $v) {
             $results[$k]['order'] = round($v['words']['words_location']['left'] / $step) * $step * 10 + floor($v['words']['words_location']['top']);
         }
-        $orders = array_column($results,'order');
+        $orders = array_column($results, 'order');
         array_multisort($orders, SORT_ASC, SORT_NUMERIC, $results);
+        return $results;
+    }
+
+    // 解析字符串，提取题号和小题总分
+    function parseWord($word = '', $arv = array('last_number_big' => '')) {
+        preg_match('/(\d+)分/', $word, $matches);
+        $score = isset($matches[1]) ? $matches[1] : '';
+        preg_match('/(\d+)\./', $word, $matches);
+        $number_big = isset($matches[1]) ? $matches[1] : '';
+        preg_match('/\((\d+)\)/', $word, $matches);
+        $number_small = isset($matches[1]) ? $matches[1] : '';
+        return array(
+            'score' => $score,
+            'number' => ($number_big ? $number_big : $arv['last_number_big']) . ($number_small ? ('.' . $number_small) : ''),
+            'number_big' => $number_big,
+            'number_small' => $number_small
+        );
+    }
+
+    // 格式化循环结果
+    function formatRes($results = array()) {
+        $last_number_big = '';
+        foreach ($results as $k => $v) {
+            $word = $v['words']['word'];
+            $ar = parseWord($word, array(
+                'last_number_big' => $last_number_big
+            ));
+            $last_number_big = $ar['number_big'];
+            $results[$k] = array(
+                'words' => $word,
+                'words_location' => $v['words']['words_location'],
+                'number' => $ar['number'],
+                'score' => $ar['score']
+            );
+        }
         return $results;
     }
 ?>
