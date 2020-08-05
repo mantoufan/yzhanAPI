@@ -153,4 +153,34 @@
             });
         }
     }
+
+    // 获取当前IP
+    function get_client_ip() {
+        $ip = $_SERVER['REMOTE_ADDR'];
+        if (isset($_SERVER['HTTP_CLIENT_IP']) && preg_match('/^([0-9]{1,3}\.){3}[0-9]{1,3}$/', $_SERVER['HTTP_CLIENT_IP'])) {
+            $ip = $_SERVER['HTTP_CLIENT_IP'];
+        } elseif(isset($_SERVER['HTTP_X_FORWARDED_FOR']) AND preg_match_all('#\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}#s', $_SERVER['HTTP_X_FORWARDED_FOR'], $matches)) {
+            foreach ($matches[0] AS $xip) {
+                if (!preg_match('#^(10|172\.16|192\.168)\.#', $xip)) {
+                    $ip = $xip;
+                    break;
+                }
+            }
+        }
+        return $ip;
+    }
+
+    // 跨域限制策略
+    function cors_domain_kocla() {
+        $origin = ['http://onewx.kocla.com', 'http://beike.api.kocla.com', 'https://onewx.kocla.com', 'https://beike.api.kocla.com', 'http://localhost', 'http://127.0.0.1', 'http://localhost:8080', 'http://127.0.0.1:8080', 'http://localhost:8989', 'http://127.0.0.1:8989'];
+        $AllowOrigin = 'http://localhost';
+        if(in_array($_SERVER["HTTP_ORIGIN"], $origin))
+        {
+            $AllowOrigin = $_SERVER["HTTP_ORIGIN"];
+        }
+        header('Access-Control-Allow-Origin: ' . $AllowOrigin);
+        header('Access-Control-Allow-Methods: POST,GET,OPTIONS,DELETE');
+        header('Access-Control-Allow-Credentials: true');
+        header('Access-Control-Allow-Headers: token');
+    }
 ?>
