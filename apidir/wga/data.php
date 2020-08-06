@@ -1,7 +1,7 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'mantoufan.com' => '978572783',
+        'mantoufan.com' => '978572783'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',

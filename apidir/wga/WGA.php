@@ -12,14 +12,14 @@ if($api_action === 'verify') {
         'level' => ''
     );
     $msg = 'success';$code = 200;
-    if ($_domain[2] && $data[$_domain[2]]) {
+    if ($_domain[2] && $data[$_name][$_domain[2]]) {
         $_res = array(
-            'qq' => $data[$_domain[2]],
+            'qq' => $data[$_name][$_domain[2]],
             'level' => 1
         );
-    } else if ($_domain[3] && $data[$_domain[3]]) {
+    } else if ($_domain[3] && $data[$_name][$_domain[3]]) {
         $_res = array(
-            'qq' => $data[$_domain[3]],
+            'qq' => $data[$_name][$_domain[3]],
             'level' => 1
         );
     }else {
