@@ -1,6 +1,7 @@
 <?php
 if($api_action === 'verify') {
     $_domain = isset($_POST['domain']) ? $_POST['domain'] : (isset($g['domain']) ? $g['domain'] : '');
+    $_name = isset($_POST['name']) ? $_POST['name'] : (isset($g['name']) ? $g['name'] : 'shopxoplugin_thirdpartylogin');
     if (!$_domain) {
         output('缺少domain参数', $out_type, -1, array('jsonp_cb' => $g['jsonp_cb']));
     }
