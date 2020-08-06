@@ -5,6 +5,7 @@ $data = array(
     'yocoo.cn' => '392061164',
     'jooj.vip' => '7400686',
     'zwvmall.com' => '1135139988',
-    'hyhyni.com' => '2274473949'
+    'hyhyni.com' => '2274473949',
+    'kdbg.cn' => '285982013'
 );
 ?>
