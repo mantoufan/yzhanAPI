@@ -38,7 +38,6 @@
                     }
                     $_rects[1][$_rect['layout']][] = $_rect;
                 }
-
                 if ($_last_left_min && $_last_left_max) {
                     $_last_left_min = min($_x_min, $_last_left_min);
                     $_last_left_max = max($_x_max, $_last_left_max);
@@ -179,7 +178,19 @@
 
             switch($outtype) {
                 case 'score':
-                    $res[$k] = $layouts['rects'][$source['no']][$source['type']][$source['index']]['layout_location'];
+                    $rect = $layouts['rects'][$source['no']][$source['type']][$source['index']]['layout_location'];
+                    $_x_min = getMaximum($rect, 'x', 'min');
+                    $_x_max = getMaximum($rect, 'x', 'max');
+                    $_y_min = getMaximum($rect, 'y', 'min');
+                    $_y_max = getMaximum($rect, 'y', 'max');
+                    $res[$k] = array(
+                        'layout' => array(
+                            'top' => $_y_min,
+                            'left' => $_x_min,
+                            'width' => $_x_max - $_x_min,
+                            'height' => $_y_max - $_y_min
+                        )
+                    );
                 break;
                 case 'crop':
                     $_indexs = searchByWord($_res_json, $source_word, $source_pattern, true);
@@ -201,6 +212,7 @@
                             $points_total = count($points_points);
                             $points_black_num = 0;
                             $words_location = $_res_json['results'][$_index]['words']['words_location'];
+
                             foreach($points_points as $points_points_k => $points_points_v) {
                                 if(isBlackByPoint($img, $words_location['left'] + $points_points_v[0], $words_location['top'] + $points_points_v[1])) {
                                     // 自动给一个点，生成矩形区域，判断该区域是否是黑色
@@ -292,7 +304,10 @@
             $last_number_big = $ar['number_big'];
             $results[$k] = array(
                 'words' => $word,
-                'words_location' => $v['words']['words_location'],
+                'layout' => array(
+                    'top' => floor($v['words']['words_location']['top']),
+                    'left' => floor($v['words']['words_location']['left'])
+                ),
                 'number' => $ar['number'],
                 'score' => $ar['score']
             );
