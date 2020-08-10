@@ -1,6 +1,7 @@
 <?php
 use Grafika\Grafika;
 use Grafika\Color;
+
 $upload_path = dirname(__FILE__) . '/upload';
 if (!is_dir($upload_path)) {
     mkdir($upload_path);
@@ -103,7 +104,7 @@ if($api_action === 'answersheet') {// 答题卡识别
             $_y = $words_location['top'];
             $_w = $words_location['width'];
             $_h = $words_location['height'];
-            $editor->draw($image, Grafika::createDrawingObject('Rectangle', $_w, $_h, array($_x, $_y), 3, '#FF0000', null));
+            // $editor->draw($image, Grafika::createDrawingObject('Rectangle', $_w, $_h, array($_x, $_y), 3, '#FF0000', null));
         }
     }
 
@@ -124,15 +125,26 @@ if($api_action === 'answersheet') {// 答题卡识别
             $_x_3 = $_p[3]['x'];
             $_y_3 = $_p[3]['y'];  
             
-            $editor->draw($image, Grafika::createDrawingObject('Polygon', array(array($_p[0]['x'], $_p[0]['y']), array($_p[1]['x'], $_p[1]['y']), array($_p[2]['x'], $_p[2]['y']), array($_p[3]['x'], $_p[3]['y'])), 5, '#85ff00', null));
-            $editor->text($image, $_v['layout'] , 12, $_p[0]['x'], $_p[0]['y'], new Color('#d14'), '', 0);
+            // $editor->draw($image, Grafika::createDrawingObject('Polygon', array(array($_p[0]['x'], $_p[0]['y']), array($_p[1]['x'], $_p[1]['y']), array($_p[2]['x'], $_p[2]['y']), array($_p[3]['x'], $_p[3]['y'])), 5, '#85ff00', null));
+            // $editor->text($image, $_v['layout'] , 12, $_p[0]['x'], $_p[0]['y'], new Color('#d14'), '', 0);
         }
     }
 
-    
     // 模版解析
     $res = parseTpl($file_path, $_res_json, 'changde');
-    
+
+    // 客观题和主观题画框
+    $layouts = array();
+    if ($res['subject_single']) {
+        $layouts[] = $res['subject_single'];
+    }
+    if ($res['subject_subjective']) {
+        $layouts = array_merge($layouts, $res['subject_subjective']);
+    }
+    foreach($layouts as $k => $v) {
+        $layout = $v['layout'];
+        $editor->draw($image, Grafika::createDrawingObject('Rectangle', $layout['width'], $layout['height'], array($layout['left'], $layout['top']), 6, '#FF0000', null));
+    }
 
     // 根据识别类型切割结果
     $_a = explode('/', $file_path);

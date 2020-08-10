@@ -97,7 +97,7 @@ $tpl = array(
             'source' => array(
                 'type' => 'table',
                 'no' => 1,
-                'index' => 2
+                'index' => 1
             ),
             'outtype' => 'score'
         ),

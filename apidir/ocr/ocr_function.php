@@ -145,6 +145,7 @@
     // Ocr模版解析
     function parseTpl($file_path, $_res_json, $_tpl_name) {
         global $upload_path;
+
         $editor = Grafika::createEditor();
         $editor->open($image, $file_path);
         $_w = $image->getWidth();
@@ -201,7 +202,7 @@
                         foreach ($_indexs as $_k => $_index) {
                             $res[$k][] = $_res_json['results'][$_index];
                         }
-                        $res[$k] = formatRes(sortNumberByPoints($res[$k]));
+                        $res[$k] = formatRes(sortNumberByPoints($res[$k]), $layouts);
                     }
                 break;
                 default:// 默认返回文本
@@ -294,7 +295,7 @@
     }
 
     // 格式化循环结果
-    function formatRes($results = array()) {
+    function formatRes($results = array(), $layouts = array()) {
         $last_number_big = '';
         foreach ($results as $k => $v) {
             $word = $v['words']['word'];
@@ -302,16 +303,87 @@
                 'last_number_big' => $last_number_big
             ));
             $last_number_big = $ar['number_big'];
+            $_top = floor($v['words']['words_location']['top']);
+            $_left = floor($v['words']['words_location']['left']);
+            $_ar = getWHBySibling(array(
+                'top' => $_top,
+                'left' => $_left
+            ), $layouts, $results);
             $results[$k] = array(
                 'words' => $word,
                 'layout' => array(
-                    'top' => floor($v['words']['words_location']['top']),
-                    'left' => floor($v['words']['words_location']['left'])
+                    'top' => $_top - 25,
+                    'left' => $_left,
+                    'width' => $_ar['width'],
+                    'height' => $_ar['height'],
+                    // 'left_queue' => $_ar['left_queue'],
+                    // 'top_queue' => $_ar['top_queue'],
+                    // 'left_next_index' => $_ar['left_next_index'],
+                    // 'top_next_index' => $_ar['top_next_index'],
+                    // 'left_next' => $_ar['left_next'],
+                    // 'top_next' => $_ar['top_next']
                 ),
                 'number' => $ar['number'],
                 'score' => $ar['score']
             );
         }
         return $results;
+    }
+    // 根据相邻坐标获取宽度或高度
+    function getWHBySibling($point = array('left' => 0, 'top' => 0), $layouts = array(), $results = array()) {
+        $_left = $point['left'];
+        $_top = $point['top'];
+        $_points = array(
+            'left' => array(
+                $_left,
+                $layouts['left_min'],
+                $layouts['left_max'],
+                $layouts['right_min'],
+                $layouts['right_max']
+            ), 
+            'top' => array(
+                $_top,
+                $layouts['top_min'],
+                $layouts['top_max']
+            )
+        );
+        
+        foreach($results as $k => $v) {
+            $_v_top = floor($v['words']['words_location']['top']);
+            $_v_left = floor($v['words']['words_location']['left']);
+            if (abs($_v_left -  $_left) < 50) {
+                $_points['top'][]= $_v_top;
+            }
+            if (abs($_v_top -  $_top) < 50) {
+                $_points['left'][]= $_v_left;
+            }
+        }
+        $_points['left'] = array_filter(array_unique($_points['left']));
+        $_points['top'] = array_filter(array_unique($_points['top']));
+        sort($_points['left']);
+        sort($_points['top']);
+
+        $left_next_index = array_search($_left, $_points['left']) + 1;
+        $top_next_index = array_search($_top, $_points['top']) + 1;
+
+        $_left_next = $_points['left'][$left_next_index];
+        $_top_next = $_points['top'][$top_next_index];
+
+        $_left_next_2 = $_points['left'][$left_next_index + 1];
+        $_top_next_2 = $_points['top'][$top_next_index + 1];
+
+        $_width = $_left_next - $_left;
+        $_height = $_top_next - $_top;
+
+        return array(
+            'width' => $_width < 10 && $_left_next_2 ? $_left_next_2 - $_left : $_width,
+            'height' => $_height < 10 && $_top_next_2 ? $_top_next_2 - $_top : $_height,
+            'left_queue' => implode(',', $_points['left']),
+            'top_queue' => implode(',', $_points['top']),
+            'left_next_index' =>  $left_next_index,
+            'top_next_index' =>  $top_next_index,
+            'left_next' => $_points['left'][$left_next_index],
+            'top_next' => $_points['top'][$top_next_index],
+        );
     }
 ?>
