@@ -50,5 +50,10 @@ if(!$api_action) {
     } else {
         mc_404();
     }
+} else {
+    $file_name = dirname(__FILE__) . '/short_' . $api_action . '.php';
+    if (file_exists($file_name)) {
+        include($file_name);
+    }
 }
 ?>
