@@ -9,6 +9,11 @@
         $_tmp_ar = explode('mtfq=',@$_SERVER['REDIRECT_QUERY_STRING'] ? $_SERVER['REDIRECT_QUERY_STRING'] : $_SERVER['QUERY_STRING']);
         $_tmp_ar = explode('?', end($_tmp_ar));
         $q = reset($_tmp_ar);
+
+        if (stripos($_SERVER['SERVER_NAME'], 'api.') !== FALSE) {
+            $q = 'api/' . $q;
+        }
+
         $a = explode('/', $q);
         if ($a[0] === 'api' && !empty($a[1])){
             header("Access-Control-Allow-Origin: *");

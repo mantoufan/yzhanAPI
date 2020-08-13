@@ -46,5 +46,4 @@
     }else {
         output('success', $out_type, 200, array('jsonp_cb' => $g['jsonp_cb'], 'data' => array('merged_img_path' => $merged_img_path)));
     }
-    
 ?>

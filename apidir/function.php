@@ -55,6 +55,13 @@
             case 'txt':
                 $h = !empty($arv['txt']) ? $arv['txt'] : $msg;
             break;
+            case 'redirect':
+                if (!empty($arv['redirect'])) {
+                    header('Location:' . $arv['redirect']);
+                } else {
+                    $h = $msg;
+                }
+            break;
             case 'qrcode':
             
             break;
