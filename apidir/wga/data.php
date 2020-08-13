@@ -3,7 +3,8 @@ $data = array(
     'shopxoplugin_expressinwebfree' => array(
         'mantoufan.com' => '978572783',
         'hbycl.com' => '769665798',
-        'beikar.com' => '769665798'
+        'beikar.com' => '769665798',
+        'l-ren.com.cn' => '414070709'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',
