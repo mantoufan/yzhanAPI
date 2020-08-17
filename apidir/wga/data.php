@@ -5,7 +5,8 @@ $data = array(
         'hbycl.com' => '769665798',
         'beikar.com' => '769665798',
         'l-ren.com.cn' => '414070709',
-        'ahuau.com' => '1791559110'
+        'ahuau.com' => '1791559110',
+        'shanwaijj.com' => '909374853'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',
