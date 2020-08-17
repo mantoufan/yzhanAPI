@@ -19,7 +19,8 @@ $data = array(
         'kdbg.cn' => '285982013',
         '103.81.169.241' => '735034910',
         'haolidaojia.com' => '13207430743',
-        'b55b.cn' => '799992208'
+        'b55b.cn' => '799992208',
+        'shanwaijj.com' => '909374853'
     ),
     'shopxoplugin_servicepro' => array(
         'mantoufan.com' => '978572783'
