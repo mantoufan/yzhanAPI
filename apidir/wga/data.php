@@ -6,6 +6,7 @@ $data = array(
         'beikar.com' => '769665798',
         'l-ren.com.cn' => '414070709',
         'ahuau.com' => '1791559110',
+        'haolidaojia.com' => '280676033',
         'shanwaijj.com' => '909374853'
     ),
     'shopxoplugin_thirdpartylogin' => array(
