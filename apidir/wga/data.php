@@ -8,7 +8,8 @@ $data = array(
         'ahuau.com' => '1791559110',
         'haolidaojia.com' => '280676033',
         'shanwaijj.com' => '909374853',
-        '103.81.169.241' => '735034910'
+        '103.81.169.241' => '735034910',
+        'jooj.vip' => '7400686'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',

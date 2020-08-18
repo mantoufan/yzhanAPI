@@ -10,7 +10,7 @@
     $img_urls = explode(',http', $g['img_urls']);
     $dir_name = get_dir_name(get_name(), $upload_path . '/');
 
-    $f_name = $dir_name . '/' . md5($g['img_url']) . '_' . $g['img_direction'] . '_merge.jpg';
+    $f_name = $dir_name . '/' . md5($g['img_urls']) . '_' . $g['img_direction'] . '_merge.jpg';
     $f_path = $upload_path . '/' . $f_name;
     if (!file_exists($f_path)) {
         $f_ar = array();
