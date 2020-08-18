@@ -6,7 +6,8 @@ $data = array(
         'beikar.com' => '769665798',
         'l-ren.com.cn' => '414070709',
         'ahuau.com' => '1791559110',
-        'haolidaojia.com' => '280676033'
+        'haolidaojia.com' => '280676033',
+        '103.81.169.241' => '735034910'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',
@@ -18,10 +19,12 @@ $data = array(
         'kdbg.cn' => '285982013',
         '103.81.169.241' => '735034910',
         'haolidaojia.com' => '13207430743',
-        'b55b.cn' => '799992208'
+        'b55b.cn' => '799992208',
+        'szslgm.com' => '6614591'
     ),
     'shopxoplugin_servicepro' => array(
-        'mantoufan.com' => '978572783'
+        'mantoufan.com' => '978572783',
+        'szslgm.com' => '6614591'
     )
 );
 ?>
