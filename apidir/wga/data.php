@@ -7,6 +7,7 @@ $data = array(
         'l-ren.com.cn' => '414070709',
         'ahuau.com' => '1791559110',
         'haolidaojia.com' => '280676033',
+        'shanwaijj.com' => '909374853',
         '103.81.169.241' => '735034910'
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -20,6 +21,7 @@ $data = array(
         '103.81.169.241' => '735034910',
         'haolidaojia.com' => '13207430743',
         'b55b.cn' => '799992208',
+        'shanwaijj.com' => '909374853',
         'szslgm.com' => '6614591'
     ),
     'shopxoplugin_servicepro' => array(
