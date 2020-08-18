@@ -11,7 +11,8 @@ $data = array(
         '103.81.169.241' => '735034910',
         'jooj.vip' => '7400686',
         '47.99.164.201' => '760238041',
-        '51yd.net' => '2958513654'
+        '51yd.net' => '2958513654',
+        'oaqh.com' => '360429871'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',
