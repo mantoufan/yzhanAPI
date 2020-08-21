@@ -1,6 +1,7 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
+        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'hbycl.com' => '769665798',
         'beikar.com' => '769665798',
@@ -16,6 +17,7 @@ $data = array(
         'zwvmall.com' => '1135139988'
     ),
     'shopxoplugin_thirdpartylogin' => array(
+        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'shopxo.net' => '386392432',
         'yocoo.cn' => '392061164',
@@ -30,6 +32,7 @@ $data = array(
         'szslgm.com' => '6614591'
     ),
     'shopxoplugin_servicepro' => array(
+        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'szslgm.com' => '6614591',
         '51yd.net' => '2958513654'
