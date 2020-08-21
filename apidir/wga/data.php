@@ -36,6 +36,10 @@ $data = array(
         'mantoufan.com' => '978572783',
         'szslgm.com' => '6614591',
         '51yd.net' => '2958513654'
+    ),
+    'shopxoplugin_orderremarks' => array(
+        'yzhan.co' => '978572783',
+        'mantoufan.com' => '978572783',
     )
 );
 ?>
