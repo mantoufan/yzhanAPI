@@ -40,7 +40,8 @@ $data = array(
     'shopxoplugin_orderremarks' => array(
         'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
-        '51yd.net' => '2958513654'
+        '51yd.net' => '2958513654',
+        'tcjituan.com' => '89718964'
     )
 );
 ?>
