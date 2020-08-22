@@ -43,7 +43,9 @@ $data = array(
         '51yd.net' => '2958513654',
         'tcjituan.com' => '89718964',
         'haolidaojia.com' => '13207430743',
-        'szslgm.com' => '6614591'
+        'szslgm.com' => '6614591',
+        'ahuau.com' => '1791559110',
+        'qibang123.com' => '630118936'
     )
 );
 ?>
