@@ -41,7 +41,8 @@ $data = array(
         'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         '51yd.net' => '2958513654',
-        'tcjituan.com' => '89718964'
+        'tcjituan.com' => '89718964',
+        'haolidaojia.com' => '13207430743'
     )
 );
 ?>
