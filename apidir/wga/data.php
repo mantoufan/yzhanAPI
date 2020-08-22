@@ -47,7 +47,8 @@ $data = array(
         'ahuau.com' => '1791559110',
         'qibang123.com' => '630118936',
         'xiaogandie.com' => '517786695',
-        'jinxiuego.com' => '497058719'
+        'jinxiuego.com' => '497058719',
+        'oaqh.com' => '360429871'
     )
 );
 ?>
