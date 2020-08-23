@@ -29,7 +29,8 @@ $data = array(
         'haolidaojia.com' => '13207430743',
         'b55b.cn' => '799992208',
         'shanwaijj.com' => '909374853',
-        'szslgm.com' => '6614591'
+        'szslgm.com' => '6614591',
+        '17z.co' => '2985899818'
     ),
     'shopxoplugin_servicepro' => array(
         'yzhan.co' => '978572783',
