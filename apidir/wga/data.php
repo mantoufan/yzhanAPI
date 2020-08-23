@@ -48,7 +48,8 @@ $data = array(
         'qibang123.com' => '630118936',
         'xiaogandie.com' => '517786695',
         'jinxiuego.com' => '497058719',
-        'oaqh.com' => '360429871'
+        'oaqh.com' => '360429871',
+        'emuyi.cn' => '3189088818'
     )
 );
 ?>
