@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `mtf_shorturl` (
+CREATE TABLE IF NOT EXISTS `mtf_url_short` (
 	`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT '序号',
 	`code` varchar(20) DEFAULT '' COMMENT '编码',
 	`md5` char(32) DEFAULT '' COMMENT 'MD5',

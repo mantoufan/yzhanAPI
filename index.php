@@ -40,7 +40,7 @@
             } else {mc_404();}
         } else if ($a[0]) {
             $api_action = 'redirect';
-            include('apidir/short/short.php');
+            include('apidir/url/url.php');
         } else {
             die('深圳市考拉超课科技股份有限公司 试卷和阅卷接口服务 粤ICP备12081495号 增值业务经营许可证：粤B2-20100246');
         }
