@@ -14,7 +14,8 @@ $data = array(
         '47.99.164.201' => '760238041',
         '51yd.net' => '2958513654',
         'oaqh.com' => '360429871',
-        'zwvmall.com' => '1135139988'
+        'zwvmall.com' => '1135139988',
+        'aogou.net' => '5567034'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'yzhan.co' => '978572783',
@@ -30,7 +31,8 @@ $data = array(
         'b55b.cn' => '799992208',
         'shanwaijj.com' => '909374853',
         'szslgm.com' => '6614591',
-        '17z.co' => '2985899818'
+        '17z.co' => '2985899818',
+        'aogou.net' => '5567034'
     ),
     'shopxoplugin_servicepro' => array(
         'yzhan.co' => '978572783',
