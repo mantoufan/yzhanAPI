@@ -15,7 +15,8 @@ $data = array(
         '51yd.net' => '2958513654',
         'oaqh.com' => '360429871',
         'zwvmall.com' => '1135139988',
-        'aogou.net' => '5567034'
+        'aogou.net' => '5567034',
+        'yxdjts.cn' => '34100435'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'yzhan.co' => '978572783',
@@ -54,7 +55,8 @@ $data = array(
         'oaqh.com' => '360429871',
         'emuyi.cn' => '3189088818',
         'qmart.ca' => '826183140',
-        'shanwaijj.com' => '909374853'
+        'shanwaijj.com' => '909374853',
+        'yxdjts.cn' => '34100435'
     )
 );
 ?>
