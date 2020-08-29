@@ -56,7 +56,8 @@ $data = array(
         'emuyi.cn' => '3189088818',
         'qmart.ca' => '826183140',
         'shanwaijj.com' => '909374853',
-        'yxdjts.cn' => '34100435'
+        'yxdjts.cn' => '34100435',
+        'yocoo.cn' => '392061164'
     )
 );
 ?>
