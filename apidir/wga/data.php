@@ -33,7 +33,8 @@ $data = array(
         'shanwaijj.com' => '909374853',
         'szslgm.com' => '6614591',
         '17z.co' => '2985899818',
-        'aogou.net' => '5567034'
+        'aogou.net' => '5567034',
+        'nbdeli.shop' => '27860082'
     ),
     'shopxoplugin_servicepro' => array(
         'yzhan.co' => '978572783',
