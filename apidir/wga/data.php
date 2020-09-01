@@ -1,7 +1,6 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'hbycl.com' => '769665798',
         'beikar.com' => '769665798',
@@ -20,7 +19,6 @@ $data = array(
         'dedrj.com' => '1531934160'
     ),
     'shopxoplugin_thirdpartylogin' => array(
-        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'shopxo.net' => '386392432',
         'yocoo.cn' => '392061164',
@@ -38,13 +36,11 @@ $data = array(
         'nbdeli.shop' => '27860082'
     ),
     'shopxoplugin_servicepro' => array(
-        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         'szslgm.com' => '6614591',
         '51yd.net' => '2958513654'
     ),
     'shopxoplugin_orderremarks' => array(
-        'yzhan.co' => '978572783',
         'mantoufan.com' => '978572783',
         '51yd.net' => '2958513654',
         'tcjituan.com' => '89718964',
@@ -59,7 +55,11 @@ $data = array(
         'qmart.ca' => '826183140',
         'shanwaijj.com' => '909374853',
         'yxdjts.cn' => '34100435',
-        'yocoo.cn' => '392061164'
+        'yocoo.cn' => '392061164',
+        'ppgs.co.nz' => '735034910'
+    ),
+    'shopxoplugin_orderdeliverynotice' => array(
+        'mantoufan.com' => '978572783'
     )
 );
 ?>
