@@ -38,7 +38,8 @@ $data = array(
     'shopxoplugin_servicepro' => array(
         'mantoufan.com' => '978572783',
         'szslgm.com' => '6614591',
-        '51yd.net' => '2958513654'
+        '51yd.net' => '2958513654',
+        'gxgj.com' => '44636712'
     ),
     'shopxoplugin_orderremarks' => array(
         'mantoufan.com' => '978572783',
