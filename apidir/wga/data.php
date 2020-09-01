@@ -60,7 +60,8 @@ $data = array(
         'ppgs.co.nz' => '735034910'
     ),
     'shopxoplugin_orderdeliverynotice' => array(
-        'mantoufan.com' => '978572783'
+        'mantoufan.com' => '978572783',
+        'kdbg.cn' => '285982013'
     )
 );
 ?>
