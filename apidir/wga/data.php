@@ -16,7 +16,8 @@ $data = array(
         'oaqh.com' => '360429871',
         'zwvmall.com' => '1135139988',
         'aogou.net' => '5567034',
-        'yxdjts.cn' => '34100435'
+        'yxdjts.cn' => '34100435',
+        'dedrj.com' => '1531934160'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'yzhan.co' => '978572783',
