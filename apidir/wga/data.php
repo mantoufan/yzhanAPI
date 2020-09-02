@@ -61,7 +61,9 @@ $data = array(
     ),
     'shopxoplugin_orderdeliverynotice' => array(
         'mantoufan.com' => '978572783',
-        'kdbg.cn' => '285982013'
+        'kdbg.cn' => '285982013',
+        'jinxiuego.com' => '497058719',
+        '' => '1853541084'
     )
 );
 ?>
