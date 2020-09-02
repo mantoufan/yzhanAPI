@@ -58,7 +58,8 @@ $data = array(
         'shanwaijj.com' => '909374853',
         'yxdjts.cn' => '34100435',
         'yocoo.cn' => '392061164',
-        'ppgs.co.nz' => '735034910'
+        'ppgs.co.nz' => '735034910',
+        'hyqnzt.com' => '36805301'
     ),
     'shopxoplugin_orderdeliverynotice' => array(
         'mantoufan.com' => '978572783',
