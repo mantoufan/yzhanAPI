@@ -17,7 +17,8 @@ $data = array(
         'aogou.net' => '5567034',
         'yxdjts.cn' => '34100435',
         'dedrj.com' => '1531934160',
-        'it9c.com' => '1853541084'
+        'it9c.com' => '1853541084',
+        'hinecloud.cn' => '2326666888'
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'mantoufan.com' => '978572783',
