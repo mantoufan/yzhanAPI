@@ -1,7 +1,8 @@
-<?php
+<?php 
 if($api_action === 'verify') {
     $_domain = isset($_POST['domain']) ? $_POST['domain'] : (isset($g['domain']) ? $g['domain'] : '');
     $_name = isset($_POST['name']) ? $_POST['name'] : (isset($g['name']) ? $g['name'] : 'shopxoplugin_thirdpartylogin');
+    $_version = isset($_POST['version']) ? $_POST['version'] : (isset($g['version']) ? $g['version'] : ''); 
     if (!$_domain) {
         output('缺少domain参数', $out_type, -1, array('jsonp_cb' => $g['jsonp_cb']));
     }
@@ -11,21 +12,52 @@ if($api_action === 'verify') {
         'qq' => '',
         'level' => ''
     );
-    $msg = 'success';$code = 200;
-    if ($_domain[2] && $data[$_name][$_domain[2]]) {
+    $msg = 'success';$code = 200;$_version_new = '';
+    if (isset($data[$_name]['version'])) {
+        $_version_new = $data[$_name]['version'];
+    }
+    if ($_domain[2] && $data[$_name]['domain'][$_domain[2]]) {
+        $_qq = $data[$_name]['domain'][$_domain[2]];
+    } else if ($_domain[3] && $data[$_name]['domain'][$_domain[3]]) {
+        $_qq = $data[$_name]['domain'][$_domain[3]];
+    }
+
+    if ($_qq) {
         $_res = array(
-            'qq' => $data[$_name][$_domain[2]],
+            'qq' => $_qq,
             'level' => 1
         );
-    } else if ($_domain[3] && $data[$_name][$_domain[3]]) {
-        $_res = array(
-            'qq' => $data[$_name][$_domain[3]],
-            'level' => 1
-        );
-    }else {
+
+        if ($_version && $_version_new) {
+            if (versionCompare($_version, $_version_new)) {
+                $_res = array_merge($_res, array(
+                    'tip' => '插件有新版本啦，版本号是：' . $_version_new . ' 升级请联系QQ：978572783'
+                ));
+            }
+        }
+    } else {
         $msg = '未授权，请联系QQ：978572783';
         $code = -1;
     }
+
     output($msg, $out_type, $code, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $_res));
+}
+function versionCompare($_version, $version_new) {
+    $_ar = explode('.', $_version);
+    $_ar_new = explode('.', $version_new);
+    $_len = max(count($_ar_new), count($_ar));
+    for ($i = 0; $i < $_len; $i++) {
+        if (!isset($_ar_new[$i])) {
+            $_ar_new[$i] = 0;
+        }
+        if (!isset($_ar[$i])) {
+            $_ar[$i] = 0;
+        }
+        if ($_ar_new[$i] > $_ar[$i]) {
+            return true;
+        } else if ($_ar_new[$i] < $_ar[$i]) {
+            break;
+        }
+    }
 }
 ?>
