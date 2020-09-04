@@ -36,13 +36,16 @@ $data = array(
         '17z.co' => '2985899818',
         'aogou.net' => '5567034',
         'nbdeli.shop' => '27860082',
-        'juexian.net' => '3508956676'
+        'juexian.net' => '3508956676',
+        'zb2l3.com' => '438695'
     ),
     'shopxoplugin_servicepro' => array(
         'mantoufan.com' => '978572783',
         'szslgm.com' => '6614591',
         '51yd.net' => '2958513654',
-        'gxgj.com' => '44636712'
+        'gxgj.com' => '44636712',
+        'zb2l3.com' => '438695',
+        'zypay.cn' => '3381516647'
     ),
     'shopxoplugin_orderremarks' => array(
         'mantoufan.com' => '978572783',
