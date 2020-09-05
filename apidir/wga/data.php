@@ -55,7 +55,8 @@ $data = array(
             'gxgj.com' => '44636712',
             'zb2l3.com' => '438695',
             'zypay.cn' => '3381516647',
-            'kdbg.cn' => '285982013'
+            'kdbg.cn' => '285982013',
+            'wojia.zone' => '918028'
         )
     ),
     'shopxoplugin_orderremarks' => array(
