@@ -54,7 +54,8 @@ $data = array(
             '51yd.net' => '2958513654',
             'gxgj.com' => '44636712',
             'zb2l3.com' => '438695',
-            'zypay.cn' => '3381516647'
+            'zypay.cn' => '3381516647',
+            'kdbg.cn' => '285982013'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -85,7 +86,8 @@ $data = array(
             'mantoufan.com' => '978572783',
             'kdbg.cn' => '285982013',
             'jinxiuego.com' => '497058719',
-            'it9c.com' => '1853541084'
+            'it9c.com' => '1853541084',
+            '17wangluo.com' => '772001810'
         )
     )
 );
