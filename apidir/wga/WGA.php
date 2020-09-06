@@ -17,12 +17,24 @@ if($api_action === 'verify') {
         $_version_new = $data[$_name]['version'];
     }
     if ($_domain[2] && $data[$_name]['domain'][$_domain[2]]) {
-        $_qq = $data[$_name]['domain'][$_domain[2]];
+        $_info = $data[$_name]['domain'][$_domain[2]];
     } else if ($_domain[3] && $data[$_name]['domain'][$_domain[3]]) {
-        $_qq = $data[$_name]['domain'][$_domain[3]];
+        $_info = $data[$_name]['domain'][$_domain[3]];
     }
 
-    if ($_qq) {
+    if ($_info) {
+        if (is_array($_info)) {
+            $_qq = $_info['qq'];
+            $_version_max = $_info['version'];
+            if ($_version && versionCompare($_version_max, $_version)) {
+                $msg = '无此版本授权，请联系QQ：978572783';
+                $code = -1;
+            }
+           
+        } else {
+            $_qq = $_info;
+        }
+
         $_res = array(
             'qq' => $_qq,
             'level' => 1
@@ -31,7 +43,7 @@ if($api_action === 'verify') {
         if ($_version && $_version_new) {
             if (versionCompare($_version, $_version_new)) {
                 $_res = array_merge($_res, array(
-                    'tip' => '插件有新版本啦，版本号是：' . $_version_new . ' 升级请联系QQ：978572783'
+                    'tip' => '有新版本啦，版本号是：' . $_version_new . ' 升级请联系QQ：978572783'
                 ));
             }
         }

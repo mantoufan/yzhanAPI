@@ -50,13 +50,30 @@ $data = array(
         'version' => '1.0.7',
         'domain' => array(
             'mantoufan.com' => '978572783',
-            'szslgm.com' => '6614591',
-            '51yd.net' => '2958513654',
-            'gxgj.com' => '44636712',
-            'zb2l3.com' => '438695',
-            'zypay.cn' => '3381516647',
+            'szslgm.com' => array(
+                'qq' => '6614591',
+                'version' => '1.0.6'
+            ),
+            '51yd.net' => array(
+                'qq' => '2958513654',
+                'version' => '1.0.6'
+            ),
+            'gxgj.com' => array(
+                'qq' => '44636712',
+                'version' => '1.0.6'
+            ),
+            'zb2l3.com' => array(
+                'qq' => '438695',
+                'version' => '1.0.6'
+            ),
+            'zypay.cn' => array(
+                'qq' => '3381516647',
+                'version' => '1.0.6'
+            ),
             'kdbg.cn' => '285982013',
-            'wojia.zone' => '918028'
+            'wojia.zone' => '918028',
+            'haolidaojia.com' => '13207430743',
+            'ppgs.co.nz' => '735034910'
         )
     ),
     'shopxoplugin_orderremarks' => array(
