@@ -106,7 +106,8 @@ $data = array(
             'jinxiuego.com' => '497058719',
             'it9c.com' => '1853541084',
             '17wangluo.com' => '772001810',
-            'aogou.net' => '5567034'
+            'aogou.net' => '5567034',
+            'yocoo.cn' => '392061164'
         )
     )
 );
