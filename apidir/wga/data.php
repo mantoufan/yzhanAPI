@@ -43,7 +43,8 @@ $data = array(
             'aogou.net' => '5567034',
             'nbdeli.shop' => '27860082',
             'juexian.net' => '3508956676',
-            'zb2l3.com' => '438695'
+            'zb2l3.com' => '438695',
+            'jiwujiwu.com' => '267092202'
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -96,7 +97,8 @@ $data = array(
             'yxdjts.cn' => '34100435',
             'yocoo.cn' => '392061164',
             'ppgs.co.nz' => '735034910',
-            'hyqnzt.com' => '36805301'
+            'hyqnzt.com' => '36805301',
+            'juexian.net' => '3508956676'
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
