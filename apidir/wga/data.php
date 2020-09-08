@@ -112,6 +112,12 @@ $data = array(
             'aogou.net' => '5567034',
             'yocoo.cn' => '392061164'
         )
-    )
+    ),
+    'shopxoplugin_picviewer' => array(
+        'version' => '1.0.0',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+        )
+    ),
 );
 ?>
