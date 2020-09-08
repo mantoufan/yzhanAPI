@@ -117,6 +117,7 @@ $data = array(
         'version' => '1.0.0',
         'domain' => array(
             'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432'
         )
     ),
 );
