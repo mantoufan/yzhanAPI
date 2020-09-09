@@ -75,7 +75,8 @@ $data = array(
             'wojia.zone' => '918028',
             'haolidaojia.com' => '13207430743',
             'ppgs.co.nz' => '735034910',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'qushivip.com' => '15036173132'
         )
     ),
     'shopxoplugin_orderremarks' => array(
