@@ -45,7 +45,8 @@ $data = array(
             'juexian.net' => '3508956676',
             'zb2l3.com' => '438695',
             'jiwujiwu.com' => '267092202',
-            '1234dcba.com' => '364016753'
+            '1234dcba.com' => '364016753',
+            'jijiyouxuan.com' => '353234076'
         )
     ),
     'shopxoplugin_servicepro' => array(
