@@ -120,7 +120,8 @@ $data = array(
         'version' => '1.0.0',
         'domain' => array(
             'mantoufan.com' => '978572783',
-            'shopxo.net' => '386392432'
+            'shopxo.net' => '386392432',
+            'w-miaohui.com' => '1149392023'
         )
     ),
     'shopxoplugin_sitemap' => array(
