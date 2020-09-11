@@ -25,7 +25,7 @@ $data = array(
         
     ),
     'shopxoplugin_thirdpartylogin' => array(
-        'version' => '1.0.5',
+        'version' => '1.0.6',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -123,5 +123,12 @@ $data = array(
             'shopxo.net' => '386392432'
         )
     ),
+    'shopxoplugin_sitemap' => array(
+        'version' => '1.0.2',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432'
+        )
+    )
 );
 ?>
