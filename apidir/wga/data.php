@@ -124,7 +124,8 @@ $data = array(
             'w-miaohui.com' => '1149392023',
             'jinxiuego.com' => '497058719',
             'imartcn.com' => '15915355606',
-            'haolidaojia.com' => '280676033'
+            'haolidaojia.com' => '280676033',
+            'kdbg.cn' => '285982013'
         )
     ),
     'shopxoplugin_sitemap' => array(
