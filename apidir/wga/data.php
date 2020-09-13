@@ -78,7 +78,8 @@ $data = array(
             'haolidaojia.com' => '13207430743',
             'ppgs.co.nz' => '735034910',
             'yocoo.cn' => '392061164',
-            'qushivip.com' => '15036173132'
+            'qushivip.com' => '15036173132',
+            'taoand.com' => '2100788796'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -128,7 +129,8 @@ $data = array(
             'kdbg.cn' => '285982013',
             'oaqh.com' => '360429871',
             '130110.xyz' => '2781700747',
-            'wanrenmiyx.cn' => '2501103269'
+            'wanrenmiyx.cn' => '2501103269',
+            'yocoo.cn' => '392061164'
         )
     ),
     'shopxoplugin_sitemap' => array(
