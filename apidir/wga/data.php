@@ -125,7 +125,10 @@ $data = array(
             'jinxiuego.com' => '497058719',
             'imartcn.com' => '15915355606',
             'haolidaojia.com' => '280676033',
-            'kdbg.cn' => '285982013'
+            'kdbg.cn' => '285982013',
+            'oaqh.com' => '360429871',
+            '130110.xyz' => '2781700747',
+            'wanrenmiyx.cn' => '2501103269'
         )
     ),
     'shopxoplugin_sitemap' => array(
