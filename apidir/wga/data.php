@@ -22,7 +22,6 @@ $data = array(
             'it9c.com' => '1853541084',
             'hinecloud.cn' => '2326666888'
         )
-        
     ),
     'shopxoplugin_thirdpartylogin' => array(
         'version' => '1.0.6',
