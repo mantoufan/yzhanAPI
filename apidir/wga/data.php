@@ -129,7 +129,8 @@ $data = array(
             'oaqh.com' => '360429871',
             '130110.xyz' => '2781700747',
             'wanrenmiyx.cn' => '2501103269',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'zypay.cn' => '3381516647'
         )
     ),
     'shopxoplugin_sitemap' => array(
