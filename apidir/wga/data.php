@@ -78,7 +78,9 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             'yocoo.cn' => '392061164',
             'qushivip.com' => '15036173132',
-            'taoand.com' => '2100788796'
+            'taoand.com' => '2100788796',
+            'feixinshop.cn' => '2364696298',
+            '127.0.0.188' => '2364696298'
         )
     ),
     'shopxoplugin_orderremarks' => array(
