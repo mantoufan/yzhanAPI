@@ -133,7 +133,8 @@ $data = array(
             'wanrenmiyx.cn' => '2501103269',
             'yocoo.cn' => '392061164',
             'zypay.cn' => '3381516647',
-            'hnlchina.con' => '692278609'
+            'hnlchina.con' => '692278609',
+            'liangpinji.net' => '2769208117'
         )
     ),
     'shopxoplugin_sitemap' => array(
