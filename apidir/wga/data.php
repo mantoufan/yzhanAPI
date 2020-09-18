@@ -1,26 +1,75 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'version' => '',
+        'version' => '1.0.6',
         'domain' => array(
             'mantoufan.com' => '978572783',
-            'hbycl.com' => '769665798',
-            'beikar.com' => '769665798',
-            'l-ren.com.cn' => '414070709',
-            'ahuau.com' => '1791559110',
-            'haolidaojia.com' => '280676033',
-            'shanwaijj.com' => '909374853',
-            'ppgs.co.nz' => '735034910',
-            'jooj.vip' => '7400686',
-            'shopxzh.com' => '760238041',
-            '51yd.net' => '2958513654',
-            'oaqh.com' => '360429871',
-            'zwvmall.com' => '1135139988',
-            'aogou.net' => '5567034',
-            'yxdjts.cn' => '34100435',
-            'dedrj.com' => '1531934160',
-            'it9c.com' => '1853541084',
-            'hinecloud.cn' => '2326666888'
+            'hbycl.com' => array(
+                'qq' => '769665798',
+                'version' => '1.0.5'
+            ),
+            'beikar.com' => array(
+                'qq' => '769665798',
+                'version' => '1.0.5'
+            ),
+            'l-ren.com.cn' => array(
+                'qq' => '414070709',
+                'version' => '1.0.5'
+            ),
+            'ahuau.com' => array(
+                'qq' => '1791559110',
+                'version' => '1.0.5'
+            ),
+            'haolidaojia.com' => array(
+                'qq' => '280676033',
+                'version' => '1.0.5'
+            ),
+            'shanwaijj.com' => array(
+                'qq' => '909374853',
+                'version' => '1.0.5'
+            ),
+            'ppgs.co.nz' => array(
+                'qq' => '735034910',
+                'version' => '1.0.5'
+            ),
+            'jooj.vip' => array(
+                'qq' => '7400686',
+                'version' => '1.0.5'
+            ),
+            'shopxzh.com' => array(
+                'qq' => '760238041',
+                'version' => '1.0.5'
+            ),
+            '51yd.net' => array(
+                'qq' => '2958513654',
+                'version' => '1.0.5'
+            ),
+            'oaqh.com' => array(
+                'qq' => '360429871',
+                'version' => '1.0.5'
+            ),
+            'zwvmall.com' => array(
+                'qq' => '1135139988',
+                'version' => '1.0.5'
+            ),
+            'aogou.net' => array(
+                'qq' => '5567034',
+                'version' => '1.0.5'
+            ),
+            'yxdjts.cn' => array(
+                'qq' => '34100435',
+                'version' => '1.0.5'
+            ),
+            'dedrj.com' => array(
+                'qq' => '1531934160',
+                'version' => '1.0.5'
+            ),
+            'it9c.com' => array(
+                'qq' => '1853541084',
+                'version' => '1.0.5'
+            ),
+            'hinecloud.cn' => '2326666888',
+            'yocoo.cn' => '392061164'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
