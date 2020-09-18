@@ -20,10 +20,6 @@ $data = array(
                 'qq' => '1791559110',
                 'version' => '1.0.5'
             ),
-            'haolidaojia.com' => array(
-                'qq' => '280676033',
-                'version' => '1.0.5'
-            ),
             'shanwaijj.com' => array(
                 'qq' => '909374853',
                 'version' => '1.0.5'
@@ -52,10 +48,6 @@ $data = array(
                 'qq' => '1135139988',
                 'version' => '1.0.5'
             ),
-            'aogou.net' => array(
-                'qq' => '5567034',
-                'version' => '1.0.5'
-            ),
             'yxdjts.cn' => array(
                 'qq' => '34100435',
                 'version' => '1.0.5'
@@ -69,7 +61,9 @@ $data = array(
                 'version' => '1.0.5'
             ),
             'hinecloud.cn' => '2326666888',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'haolidaojia.com' => '280676033',
+            'aogou.net' => '5567034'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
