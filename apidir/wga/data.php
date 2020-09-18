@@ -123,7 +123,7 @@ $data = array(
             'qushivip.com' => '15036173132',
             'taoand.com' => '2100788796',
             'feixinshop.cn' => '2364696298',
-            '127.0.0.188' => '2364696298'
+            'aogou.net' => '5567034'
         )
     ),
     'shopxoplugin_orderremarks' => array(
