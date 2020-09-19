@@ -7,7 +7,7 @@ if($api_action === 'verify') {
         output('缺少domain参数', $out_type, -1, array('jsonp_cb' => $g['jsonp_cb']));
     }
     include('data.php');include('wga_function.php');
-    $_domain = get_root_domain($_domain);
+    $_root_domain = get_root_domain($_domain);
     $_res = array(
         'qq' => '',
         'level' => ''
@@ -16,10 +16,10 @@ if($api_action === 'verify') {
     if (isset($data[$_name]['version'])) {
         $_version_new = $data[$_name]['version'];
     }
-    if ($_domain[2] && $data[$_name]['domain'][$_domain[2]]) {
-        $_info = $data[$_name]['domain'][$_domain[2]];
-    } else if ($_domain[3] && $data[$_name]['domain'][$_domain[3]]) {
-        $_info = $data[$_name]['domain'][$_domain[3]];
+    if ($_root_domain[2] && $data[$_name]['domain'][$_root_domain[2]]) {
+        $_info = $data[$_name]['domain'][$_root_domain[2]];
+    } else if ($_root_domain[3] && $data[$_name]['domain'][$_root_domain[3]]) {
+        $_info = $data[$_name]['domain'][$_root_domain[3]];
     }
 
     if ($_info) {
@@ -48,7 +48,7 @@ if($api_action === 'verify') {
             }
         }
     } else {
-        $msg = '未授权，请联系QQ：978572783';
+        $msg = '未授权，域名是：' . $_domain . ' 请联系QQ：978572783';
         $code = -1;
     }
 
