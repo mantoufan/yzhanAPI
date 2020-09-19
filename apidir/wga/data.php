@@ -64,7 +64,8 @@ $data = array(
             'yocoo.cn' => '392061164',
             'haolidaojia.com' => '280676033',
             'aogou.net' => '5567034',
-            'imartcn.com' => '15915355606'
+            'imartcn.com' => '15915355606',
+            'liangpiji.net' => '2769208117'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
