@@ -63,7 +63,8 @@ $data = array(
             'hinecloud.cn' => '2326666888',
             'yocoo.cn' => '392061164',
             'haolidaojia.com' => '280676033',
-            'aogou.net' => '5567034'
+            'aogou.net' => '5567034',
+            'imartcn.com' => '15915355606'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -88,7 +89,8 @@ $data = array(
             'zb2l3.com' => '438695',
             'jiwujiwu.com' => '267092202',
             '1234dcba.com' => '364016753',
-            'jijiyouxuan.com' => '353234076'
+            'jijiyouxuan.com' => '353234076',
+            'imartcn.com' => '15915355606'
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -123,7 +125,8 @@ $data = array(
             'qushivip.com' => '15036173132',
             'taoand.com' => '2100788796',
             'feixinshop.cn' => '2364696298',
-            'aogou.net' => '5567034'
+            'aogou.net' => '5567034',
+            'imartcn.com' => '15915355606'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -146,7 +149,9 @@ $data = array(
             'yocoo.cn' => '392061164',
             'ppgs.co.nz' => '735034910',
             'hyqnzt.com' => '36805301',
-            'juexian.net' => '3508956676'
+            'juexian.net' => '3508956676',
+            'jyj188.com' => '1364102823',
+            'dongpenghome.com' => '1364102823'
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
