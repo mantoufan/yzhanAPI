@@ -65,7 +65,7 @@ $data = array(
             'haolidaojia.com' => '280676033',
             'aogou.net' => '5567034',
             'imartcn.com' => '15915355606',
-            'liangpiji.net' => '2769208117'
+            'liangpinji.net' => '2769208117'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
