@@ -91,7 +91,8 @@ $data = array(
             'jiwujiwu.com' => '267092202',
             '1234dcba.com' => '364016753',
             'jijiyouxuan.com' => '353234076',
-            'imartcn.com' => '15915355606'
+            'imartcn.com' => '15915355606',
+            'it9c.com' => '1853541084'
         )
     ),
     'shopxoplugin_servicepro' => array(
