@@ -202,7 +202,8 @@ $data = array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
             'mteme.com' => '287347483',
-            '63tao.top' => '41064203'
+            '63tao.top' => '41064203',
+            'anjiechem.com' => '1072161592'
         )
     ),
     'shopxoplugin_goodslocation' => array(
