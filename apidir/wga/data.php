@@ -60,6 +60,10 @@ $data = array(
                 'qq' => '1853541084',
                 'version' => '1.0.5'
             ),
+            'hnlaiku.com' => array(
+                'qq' => '36351506',
+                'version' => '1.0.5'
+            ), 
             'hinecloud.cn' => '2326666888',
             'yocoo.cn' => '392061164',
             'haolidaojia.com' => '280676033',
@@ -92,7 +96,8 @@ $data = array(
             '1234dcba.com' => '364016753',
             'jijiyouxuan.com' => '353234076',
             'imartcn.com' => '15915355606',
-            'it9c.com' => '1853541084'
+            'it9c.com' => '1853541084',
+            'szhlhtiptop.com' => '23127244'
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -128,7 +133,8 @@ $data = array(
             'taoand.com' => '2100788796',
             'feixinshop.cn' => '2364696298',
             'aogou.net' => '5567034',
-            'imartcn.com' => '15915355606'
+            'imartcn.com' => '15915355606',
+            'jinxiuego.com' => '497058719'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -197,6 +203,14 @@ $data = array(
             'shopxo.net' => '386392432',
             'mteme.com' => '287347483',
             '63tao.top' => '41064203'
+        )
+    ),
+    'shopxoplugin_goodslocation' => array(
+        'version' => '1.0.4',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+            'it9c.com' => '1853541084',
+            'haolidaojia.com' => '13207430743'
         )
     )
 );
