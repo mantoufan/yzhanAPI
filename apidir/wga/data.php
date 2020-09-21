@@ -198,7 +198,7 @@ $data = array(
         )
     ),
     'shopxoplugin_sitemap' => array(
-        'version' => '1.0.2',
+        'version' => '1.0.3',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -206,7 +206,8 @@ $data = array(
             '63tao.top' => '41064203',
             'anjiechem.com' => '1072161592',
             'yocoo.cn' => '392061164',
-            'jinxiuego.com' => '497058719'
+            'jinxiuego.com' => '497058719',
+            'xiaogandie.com' => '517786695'
         )
     ),
     'shopxoplugin_goodslocation' => array(
