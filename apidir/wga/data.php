@@ -69,7 +69,8 @@ $data = array(
             'haolidaojia.com' => '280676033',
             'aogou.net' => '5567034',
             'imartcn.com' => '15915355606',
-            'liangpinji.net' => '2769208117'
+            'liangpinji.net' => '2769208117',
+            'autdiy.net' => '865042190'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -204,7 +205,8 @@ $data = array(
             'mteme.com' => '287347483',
             '63tao.top' => '41064203',
             'anjiechem.com' => '1072161592',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'jinxiuego.com' => '497058719'
         )
     ),
     'shopxoplugin_goodslocation' => array(
@@ -212,7 +214,8 @@ $data = array(
         'domain' => array(
             'mantoufan.com' => '978572783',
             'it9c.com' => '1853541084',
-            'haolidaojia.com' => '13207430743'
+            'haolidaojia.com' => '13207430743',
+            'autdiy.net' => '865042190'
         )
     )
 );
