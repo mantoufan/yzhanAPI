@@ -135,7 +135,8 @@ $data = array(
             'feixinshop.cn' => '2364696298',
             'aogou.net' => '5567034',
             'imartcn.com' => '15915355606',
-            'jinxiuego.com' => '497058719'
+            'jinxiuego.com' => '497058719',
+            'shanwaijj.com' => '2446709321'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -177,7 +178,7 @@ $data = array(
         )
     ),
     'shopxoplugin_picviewer' => array(
-        'version' => '1.0.2',
+        'version' => '1.0.3',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -194,7 +195,8 @@ $data = array(
             'hnlchina.con' => '692278609',
             'liangpinji.net' => '2769208117',
             'aogou.net' => '5567034',
-            'qibang123.com' => '630118936'
+            'qibang123.com' => '630118936',
+            'shanwaijj.com' => '2446709321'
         )
     ),
     'shopxoplugin_sitemap' => array(
