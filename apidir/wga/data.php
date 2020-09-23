@@ -209,7 +209,8 @@ $data = array(
             'anjiechem.com' => '1072161592',
             'yocoo.cn' => '392061164',
             'jinxiuego.com' => '497058719',
-            'xiaogandie.com' => '517786695'
+            'xiaogandie.com' => '517786695',
+            'shanwaijj.com' => '2446709321'
         )
     ),
     'shopxoplugin_goodslocation' => array(
