@@ -136,7 +136,8 @@ $data = array(
             'aogou.net' => '5567034',
             'imartcn.com' => '15915355606',
             'jinxiuego.com' => '497058719',
-            'shanwaijj.com' => '2446709321'
+            'shanwaijj.com' => '2446709321',
+            'zwvmall.com' => '1135139988'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -211,7 +212,8 @@ $data = array(
             'jinxiuego.com' => '497058719',
             'xiaogandie.com' => '517786695',
             'shanwaijj.com' => '2446709321',
-            'ituiduo.com' => '8342648'
+            'ituiduo.com' => '8342648',
+            'szslgm.com' => '6614591'
         )
     ),
     'shopxoplugin_goodslocation' => array(
