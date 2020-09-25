@@ -214,7 +214,8 @@ $data = array(
             'shanwaijj.com' => '2446709321',
             'ituiduo.com' => '8342648',
             'szslgm.com' => '6614591',
-            'aogou.net' => '5567034'
+            'aogou.net' => '5567034',
+            'wip.xin' => '545658144'
         )
     ),
     'shopxoplugin_goodslocation' => array(
