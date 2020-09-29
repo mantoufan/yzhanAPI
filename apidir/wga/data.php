@@ -228,6 +228,18 @@ $data = array(
             'autdiy.net' => '865042190',
             'yocoo.cn' => '392061164'
         )
+    ),
+    'shopxoplugin_favnumedit' => array(
+        'version' => '1.0.0',
+        'domain' => array(
+            '1234dcba.com' => '364016753'
+        )
+    ),
+    'shopxoplugin_optimizer' => array(
+        'version' => '1.0.0',
+        'domain' => array(
+
+        )
     )
 );
 ?>
