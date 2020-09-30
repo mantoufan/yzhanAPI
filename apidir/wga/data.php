@@ -70,7 +70,8 @@ $data = array(
             'aogou.net' => '5567034',
             'imartcn.com' => '15915355606',
             'liangpinji.net' => '2769208117',
-            'autdiy.net' => '865042190'
+            'autdiy.net' => '865042190',
+            'jiayuetao.com' => '89718964'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -232,13 +233,18 @@ $data = array(
     'shopxoplugin_favnumedit' => array(
         'version' => '1.0.0',
         'domain' => array(
-            '1234dcba.com' => '364016753'
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
+            '1234dcba.com' => '364016753',
+            'yocoo.cn' => '392061164'
         )
     ),
     'shopxoplugin_optimizer' => array(
         'version' => '1.0.0',
         'domain' => array(
-
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
+            'yocoo.cn' => '392061164'
         )
     )
 );
