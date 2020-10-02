@@ -250,7 +250,8 @@ $data = array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
             'yocoo.cn' => '392061164',
-            'cnqcq.com' => '246717110'
+            'cnqcq.com' => '246717110',
+            'aogou.net' => '5567034'
         )
     )
 );
