@@ -244,6 +244,15 @@ $data = array(
             'yocoo.cn' => '392061164'
         )
     ),
+    'shopxoplugin_dataprettify' => array(
+        'version' => '1.0.2',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
+            '1234dcba.com' => '364016753',
+            'yocoo.cn' => '392061164'
+        )
+    ),
     'shopxoplugin_optimizer' => array(
         'version' => '1.0.0',
         'domain' => array(
