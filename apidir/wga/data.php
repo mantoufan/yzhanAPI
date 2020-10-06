@@ -250,7 +250,8 @@ $data = array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
             '1234dcba.com' => '364016753',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'whzwjz.com' => '20162156'
         )
     ),
     'shopxoplugin_optimizer' => array(
