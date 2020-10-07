@@ -266,7 +266,8 @@ $data = array(
             'shopxo.net' => '386392432',
             'yocoo.cn' => '392061164',
             'cnqcq.com' => '246717110',
-            'aogou.net' => '5567034'
+            'aogou.net' => '5567034',
+            'liuliangw.cn' => '704954969'
         )
     )
 );
