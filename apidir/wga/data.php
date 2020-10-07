@@ -71,7 +71,8 @@ $data = array(
             'imartcn.com' => '15915355606',
             'liangpinji.net' => '2769208117',
             'autdiy.net' => '865042190',
-            'jiayuetao.com' => '89718964'
+            'jiayuetao.com' => '89718964',
+            'liuliangw.cn' => '704954969'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -99,7 +100,8 @@ $data = array(
             'jijiyouxuan.com' => '353234076',
             'imartcn.com' => '15915355606',
             'it9c.com' => '1853541084',
-            'szhlhtiptop.com' => '23127244'
+            'szhlhtiptop.com' => '23127244',
+            'liuliangw.cn' => '704954969'
         )
     ),
     'shopxoplugin_servicepro' => array(
