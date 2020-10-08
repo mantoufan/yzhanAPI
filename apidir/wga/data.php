@@ -20,10 +20,6 @@ $data = array(
                 'qq' => '1791559110',
                 'version' => '1.0.5'
             ),
-            'shanwaijj.com' => array(
-                'qq' => '909374853',
-                'version' => '1.0.5'
-            ),
             'ppgs.co.nz' => array(
                 'qq' => '735034910',
                 'version' => '1.0.5'
@@ -72,7 +68,8 @@ $data = array(
             'liangpinji.net' => '2769208117',
             'autdiy.net' => '865042190',
             'jiayuetao.com' => '89718964',
-            'liuliangw.cn' => '704954969'
+            'liuliangw.cn' => '704954969',
+            'shanwaijj.com' => '909374853',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
