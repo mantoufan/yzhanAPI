@@ -256,7 +256,8 @@ $data = array(
             'shopxo.net' => '386392432',
             '1234dcba.com' => '364016753',
             'yocoo.cn' => '392061164',
-            'whzwjz.com' => '20162156'
+            'whzwjz.com' => '20162156',
+            'szslgm.com' => '6614591'
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -267,7 +268,11 @@ $data = array(
             'yocoo.cn' => '392061164',
             'cnqcq.com' => '246717110',
             'aogou.net' => '5567034',
-            'liuliangw.cn' => '704954969'
+            'liuliangw.cn' => '704954969',
+            'szslgm.com' => '6614591'
+        ),
+        'domains' => array(
+            'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com'
         )
     )
 );
