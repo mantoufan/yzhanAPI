@@ -146,6 +146,7 @@ $data = array(
         'version' => '',
         'domain' => array(
             'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
             '51yd.net' => '2958513654',
             'tcjituan.com' => '89718964',
             'haolidaojia.com' => '13207430743',
