@@ -271,8 +271,10 @@ $data = array(
             'liuliangw.cn' => '704954969',
             'szslgm.com' => '6614591'
         ),
-        'domains' => array(
-            'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com'
+        'data'=> array(
+            'domains' => array(
+                'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com'
+            )
         )
     )
 );

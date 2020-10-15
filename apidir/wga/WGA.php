@@ -47,30 +47,15 @@ if($api_action === 'verify') {
                 ));
             }
         }
+
+        if (isset($data[$_name]['data'])) {
+            $_res = array_merge($_res, array(
+                'data' => $data[$_name]['data']
+            ));
+        }
     } else {
         $msg = '未授权，域名是：' . $_domain . ' 请联系QQ：978572783';
         $code = -1;
-    }
-
-    output($msg, $out_type, $code, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $_res));
-} else if($api_action === 'data') {
-    $_name = isset($_POST['name']) ? $_POST['name'] : (isset($g['name']) ? $g['name'] : '');
-    $_key = isset($_POST['key']) ? $_POST['key'] : (isset($g['key']) ? $g['key'] : '');
-    include('data.php');
-    if (!$_name) {
-        $msg = '缺少name参数';
-        $code = -1;
-    } elseif (!isset($data[$_name])) {
-        $msg = 'name为' . $_name . '的应用不存在';
-        $code = -1;
-    } elseif (!isset($data[$_name][$_key])) {
-        $msg = 'key为' . $_key . '的数据不存在';
-        $code = -1;
-    } else {
-        $msg = 'success';$code = 200;
-        $_res = array(
-            $_key => $data[$_name][$_key]
-        );
     }
 
     output($msg, $out_type, $code, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $_res));
