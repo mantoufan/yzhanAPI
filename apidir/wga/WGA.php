@@ -53,6 +53,27 @@ if($api_action === 'verify') {
     }
 
     output($msg, $out_type, $code, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $_res));
+} else if($api_action === 'data') {
+    $_name = isset($_POST['name']) ? $_POST['name'] : (isset($g['name']) ? $g['name'] : '');
+    $_key = isset($_POST['key']) ? $_POST['key'] : (isset($g['key']) ? $g['key'] : '');
+    include('data.php');
+    if (!$_name) {
+        $msg = '缺少name参数';
+        $code = -1;
+    } elseif (!isset($data[$_name])) {
+        $msg = 'name为' . $_name . '的应用不存在';
+        $code = -1;
+    } elseif (!isset($data[$_name][$_key])) {
+        $msg = 'key为' . $_key . '的数据不存在';
+        $code = -1;
+    } else {
+        $msg = 'success';$code = 200;
+        $_res = array(
+            $_key => $data[$_name][$_key]
+        );
+    }
+
+    output($msg, $out_type, $code, array('jsonp_cb' => $g['jsonp_cb'], 'data' => $_res));
 }
 function versionCompare($_version, $version_new) {
     $_ar = explode('.', $_version);
