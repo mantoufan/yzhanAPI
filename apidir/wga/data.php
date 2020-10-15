@@ -139,7 +139,8 @@ $data = array(
             'shanwaijj.com' => '2446709321',
             'zwvmall.com' => '1135139988',
             'cnqcq.com' => '246717110',
-            'dimeite.com' => '313740969'
+            'dimeite.com' => '313740969',
+            'shiyicang.store' => '120025737'
         )
     ),
     'shopxoplugin_orderremarks' => array(
