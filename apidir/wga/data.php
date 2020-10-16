@@ -70,6 +70,7 @@ $data = array(
             'jiayuetao.com' => '89718964',
             'liuliangw.cn' => '704954969',
             'shanwaijj.com' => '909374853',
+            'xhsc86.com' => '15036173132',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -130,7 +131,7 @@ $data = array(
             'haolidaojia.com' => '13207430743',
             'ppgs.co.nz' => '735034910',
             'yocoo.cn' => '392061164',
-            'qushivip.com' => '15036173132',
+            'xhsc86.com' => '15036173132',
             'taoand.com' => '2100788796',
             'feixinshop.cn' => '2364696298',
             'aogou.net' => '5567034',
