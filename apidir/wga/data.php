@@ -72,7 +72,8 @@ $data = array(
             'shanwaijj.com' => '909374853',
             'xhsc86.com' => '15036173132',
             'cykj56.cn' => '1532114541',
-            'gzchepin.com' => '834467609'
+            'gzchepin.com' => '834467609',
+            'zheziyi.cn' => '85656399'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -102,7 +103,8 @@ $data = array(
             'it9c.com' => '1853541084',
             'szhlhtiptop.com' => '23127244',
             'liuliangw.cn' => '704954969',
-            'oxjia.com' => '575090235'
+            'oxjia.com' => '575090235',
+            'zheziyi.cn' => '85656399'
         )
     ),
     'shopxoplugin_servicepro' => array(
