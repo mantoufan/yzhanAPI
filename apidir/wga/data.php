@@ -4,10 +4,7 @@ $data = array(
         'version' => '1.0.6',
         'domain' => array(
             'mantoufan.com' => '978572783',
-            'hbycl.com' => array(
-                'qq' => '769665798',
-                'version' => '1.0.5'
-            ),
+            'hbycl.com' => '769665798',
             'beikar.com' => array(
                 'qq' => '769665798',
                 'version' => '1.0.5'
@@ -147,7 +144,8 @@ $data = array(
             'cnqcq.com' => '246717110',
             'dimeite.com' => '313740969',
             'shiyicang.store' => '120025737',
-            'gzchepin.com' => '834467609'
+            'gzchepin.com' => '834467609',
+            'hbycl.com' => '769665798',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -261,7 +259,7 @@ $data = array(
         )
     ),
     'shopxoplugin_dataprettify' => array(
-        'version' => '1.0.2',
+        'version' => '1.0.3',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -269,7 +267,8 @@ $data = array(
             'yocoo.cn' => '392061164',
             'whzwjz.com' => '20162156',
             'szslgm.com' => '6614591',
-            'gzchepin.com' => '834467609'
+            'gzchepin.com' => '834467609',
+            'hbycl.com' => '769665798',
         )
     ),
     'shopxoplugin_optimizer' => array(
