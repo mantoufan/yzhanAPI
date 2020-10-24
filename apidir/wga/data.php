@@ -259,7 +259,7 @@ $data = array(
         )
     ),
     'shopxoplugin_dataprettify' => array(
-        'version' => '1.0.3',
+        'version' => '1.0.4',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
