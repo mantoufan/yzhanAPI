@@ -269,6 +269,7 @@ $data = array(
             'szslgm.com' => '6614591',
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
+            'liuliangw.cn' => '704954969'
         )
     ),
     'shopxoplugin_optimizer' => array(
