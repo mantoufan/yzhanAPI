@@ -101,7 +101,8 @@ $data = array(
             'szhlhtiptop.com' => '23127244',
             'liuliangw.cn' => '704954969',
             'oxjia.com' => '575090235',
-            'zheziyi.cn' => '85656399'
+            'zheziyi.cn' => '85656399',
+            'xianbaixian.net' => '7273579'
         )
     ),
     'shopxoplugin_servicepro' => array(
