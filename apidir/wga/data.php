@@ -271,7 +271,8 @@ $data = array(
             'whzwjz.com' => '20162156',
             'szslgm.com' => '6614591',
             'gzchepin.com' => '834467609',
-            'hbycl.com' => '769665798'
+            'hbycl.com' => '769665798',
+            'zldtw.com' => '2689180285'
         )
     ),
     'shopxoplugin_optimizer' => array(
