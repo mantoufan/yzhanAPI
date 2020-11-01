@@ -72,7 +72,8 @@ $data = array(
             'gzchepin.com' => '834467609',
             'zheziyi.cn' => '85656399',
             'xianbaixian.net' => '7273579',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'bozhongwl.cn' => '2092982401'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
