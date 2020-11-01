@@ -293,7 +293,8 @@ $data = array(
             'aogou.net' => '5567034',
             'liuliangw.cn' => '704954969',
             'szslgm.com' => '6614591',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'shanwaijj.com' => '909374853'
         ),
         'data'=> array(
             'domains' => array(
