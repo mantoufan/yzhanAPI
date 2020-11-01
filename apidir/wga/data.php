@@ -297,7 +297,7 @@ $data = array(
         ),
         'data'=> array(
             'domains' => array(
-                'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com'
+                'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com','yu.mantoufan.com'
             )
         )
     )
