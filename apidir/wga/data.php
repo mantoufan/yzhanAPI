@@ -71,7 +71,8 @@ $data = array(
             'cykj56.cn' => '1532114541',
             'gzchepin.com' => '834467609',
             'zheziyi.cn' => '85656399',
-            'xianbaixian.net' => '7273579'
+            'xianbaixian.net' => '7273579',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -104,7 +105,8 @@ $data = array(
             'oxjia.com' => '575090235',
             'zheziyi.cn' => '85656399',
             'xianbaixian.net' => '7273579',
-            'limeng.net' => '396039697'
+            'limeng.net' => '396039697',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -149,6 +151,7 @@ $data = array(
             'shiyicang.store' => '120025737',
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -178,7 +181,8 @@ $data = array(
             'cnqcq.com' => '246717110',
             'nihao789.cn' => '382362570',
             'aogou.net' => '5567034',
-            'ue348f3.com.cn' => '1994627419'
+            'ue348f3.com.cn' => '1994627419',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -219,7 +223,8 @@ $data = array(
             'oyuww.com' => '1262500034',
             'xiaogandie.com' => '517786695',
             'xianbaixian.com' => '7273579',
-            'daojiacn.com' => '995982715'
+            'daojiacn.com' => '995982715',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -239,7 +244,8 @@ $data = array(
             'aogou.net' => '5567034',
             'wip.xin' => '545658144',
             'kdbg.cn' => '285982013',
-            'cnqcq.com' => '246717110'
+            'cnqcq.com' => '246717110',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_goodslocation' => array(
@@ -272,7 +278,8 @@ $data = array(
             'szslgm.com' => '6614591',
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
-            'zldtw.com' => '2689180285'
+            'zldtw.com' => '2689180285',
+            'szoujian.com' => '398202029'
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -284,7 +291,8 @@ $data = array(
             'cnqcq.com' => '246717110',
             'aogou.net' => '5567034',
             'liuliangw.cn' => '704954969',
-            'szslgm.com' => '6614591'
+            'szslgm.com' => '6614591',
+            'szoujian.com' => '398202029'
         ),
         'data'=> array(
             'domains' => array(
