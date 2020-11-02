@@ -246,7 +246,9 @@ $data = array(
             'wip.xin' => '545658144',
             'kdbg.cn' => '285982013',
             'cnqcq.com' => '246717110',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'sxpute.com' => '1044745294',
+            'qfqc.net' => '1044745294'
         )
     ),
     'shopxoplugin_goodslocation' => array(
