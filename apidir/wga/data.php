@@ -225,7 +225,8 @@ $data = array(
             'xiaogandie.com' => '517786695',
             'xianbaixian.com' => '7273579',
             'daojiacn.com' => '995982715',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'szhlhtiptop.com' => '23127244'
         )
     ),
     'shopxoplugin_sitemap' => array(
