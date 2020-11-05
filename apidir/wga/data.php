@@ -5,6 +5,7 @@ $data = array(
         'domain' => array(
             'mantoufan.com' => '978572783',
             'hbycl.com' => '769665798',
+            'ppgs.co.nz' => '735034910',
             'beikar.com' => array(
                 'qq' => '769665798',
                 'version' => '1.0.5'
@@ -15,10 +16,6 @@ $data = array(
             ),
             'ahuau.com' => array(
                 'qq' => '1791559110',
-                'version' => '1.0.5'
-            ),
-            'ppgs.co.nz' => array(
-                'qq' => '735034910',
                 'version' => '1.0.5'
             ),
             'jooj.vip' => array(
@@ -284,7 +281,8 @@ $data = array(
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
             'zldtw.com' => '2689180285',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'ppgs.co.nz' => '735034910',
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -298,7 +296,8 @@ $data = array(
             'liuliangw.cn' => '704954969',
             'szslgm.com' => '6614591',
             'szoujian.com' => '398202029',
-            'shanwaijj.com' => '909374853'
+            'shanwaijj.com' => '909374853',
+            'ppgs.co.nz' => '735034910',
         ),
         'data'=> array(
             'domains' => array(
