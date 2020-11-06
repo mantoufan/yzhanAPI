@@ -222,7 +222,8 @@ $data = array(
             'daojiacn.com' => '995982715',
             'szoujian.com' => '398202029',
             'szhlhtiptop.com' => '23127244',
-            'shop.51yd.net' => '2958513654'
+            'shop.51yd.net' => '2958513654',
+            'suimo.net' => '1471367'
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -297,6 +298,7 @@ $data = array(
             'shanwaijj.com' => '909374853',
             'ppgs.co.nz' => '735034910',
             '51yd.net' => '2958513654',
+            'suimo.net' => '1471367'
         ),
         'data'=> array(
             'domains' => array(
