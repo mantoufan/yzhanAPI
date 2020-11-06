@@ -26,10 +26,7 @@ $data = array(
                 'qq' => '760238041',
                 'version' => '1.0.5'
             ),
-            '51yd.net' => array(
-                'qq' => '2958513654',
-                'version' => '1.0.5'
-            ),
+            '51yd.net' => '2958513654',
             'oaqh.com' => array(
                 'qq' => '360429871',
                 'version' => '1.0.5'
@@ -115,10 +112,7 @@ $data = array(
                 'qq' => '6614591',
                 'version' => '1.0.6'
             ),
-            '51yd.net' => array(
-                'qq' => '2958513654',
-                'version' => '1.0.6'
-            ),
+            '51yd.net' => '2958513654',
             'gxgj.com' => array(
                 'qq' => '44636712',
                 'version' => '1.0.6'
@@ -131,6 +125,10 @@ $data = array(
                 'qq' => '3381516647',
                 'version' => '1.0.6'
             ),
+            'xianbaixian.net' => array(
+                'qq' => '7273579',
+                'version' => '1.0.6'
+            ),  
             'kdbg.cn' => '285982013',
             'wojia.zone' => '918028',
             'haolidaojia.com' => '13207430743',
@@ -220,7 +218,7 @@ $data = array(
             'cnqcq.com' => '246717110',
             'oyuww.com' => '1262500034',
             'xiaogandie.com' => '517786695',
-            'xianbaixian.com' => '7273579',
+            'xianbaixian.net' => '7273579',
             'daojiacn.com' => '995982715',
             'szoujian.com' => '398202029',
             'szhlhtiptop.com' => '23127244',
@@ -298,6 +296,7 @@ $data = array(
             'szoujian.com' => '398202029',
             'shanwaijj.com' => '909374853',
             'ppgs.co.nz' => '735034910',
+            '51yd.net' => '2958513654',
         ),
         'data'=> array(
             'domains' => array(
