@@ -189,7 +189,8 @@ $data = array(
             'aogou.net' => '5567034',
             'yocoo.cn' => '392061164',
             'hinecloud.cn' => '2326666888',
-            'dimeite.com' => '313740969'
+            'dimeite.com' => '313740969',
+            'xiaogandie.com' => '517786695'
         )
     ),
     'shopxoplugin_picviewer' => array(
