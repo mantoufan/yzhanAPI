@@ -220,7 +220,8 @@ $data = array(
             'szoujian.com' => '398202029',
             'szhlhtiptop.com' => '23127244',
             'shop.51yd.net' => '2958513654',
-            'suimo.net' => '1471367'
+            'suimo.net' => '1471367',
+            'cat9.top' => '785000642'
         )
     ),
     'shopxoplugin_sitemap' => array(
