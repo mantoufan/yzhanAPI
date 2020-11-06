@@ -125,10 +125,7 @@ $data = array(
                 'qq' => '3381516647',
                 'version' => '1.0.6'
             ),
-            'xianbaixian.net' => array(
-                'qq' => '7273579',
-                'version' => '1.0.6'
-            ),  
+            'xianbaixian.net' => '7273579',
             'kdbg.cn' => '285982013',
             'wojia.zone' => '918028',
             'haolidaojia.com' => '13207430743',
