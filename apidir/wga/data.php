@@ -282,6 +282,7 @@ $data = array(
             'zldtw.com' => '2689180285',
             'szoujian.com' => '398202029',
             'ppgs.co.nz' => '735034910',
+            'xianbaixian.net' => '7273579',
         )
     ),
     'shopxoplugin_optimizer' => array(
