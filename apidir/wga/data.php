@@ -175,7 +175,8 @@ $data = array(
             'nihao789.cn' => '382362570',
             'aogou.net' => '5567034',
             'ue348f3.com.cn' => '1994627419',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'xianbaixian.net' => '7273579',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
