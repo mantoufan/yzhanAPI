@@ -246,7 +246,8 @@ $data = array(
             'cnqcq.com' => '246717110',
             'szoujian.com' => '398202029',
             'sxpute.com' => '1044745294',
-            'qfqc.net' => '1044745294'
+            'qfqc.net' => '1044745294',
+            'odumall.com' => '97099335'
         )
     ),
     'shopxoplugin_goodslocation' => array(
