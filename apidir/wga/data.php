@@ -247,7 +247,8 @@ $data = array(
             'szoujian.com' => '398202029',
             'sxpute.com' => '1044745294',
             'qfqc.net' => '1044745294',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            'ahaishen.cn' => '359015905'
         )
     ),
     'shopxoplugin_goodslocation' => array(
@@ -283,6 +284,7 @@ $data = array(
             'zldtw.com' => '2689180285',
             'szoujian.com' => '398202029',
             'xianbaixian.net' => '7273579',
+            'ppgs.co.nz' => '735034910',
         )
     ),
     'shopxoplugin_optimizer' => array(
