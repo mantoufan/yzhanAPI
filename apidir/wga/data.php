@@ -91,7 +91,7 @@ $data = array(
             'juexian.net' => '3508956676',
             'zb2l3.com' => '438695',
             'jiwujiwu.com' => '267092202',
-            '1234dcba.com' => '364016753',
+            'xbaohui.cn' => '364016753',
             'jijiyouxuan.com' => '353234076',
             'imartcn.com' => '15915355606',
             'it9c.com' => '1853541084',
@@ -265,7 +265,7 @@ $data = array(
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
-            '1234dcba.com' => '364016753',
+            'xbaohui.cn' => '364016753',
             'yocoo.cn' => '392061164'
         )
     ),
@@ -274,7 +274,7 @@ $data = array(
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
-            '1234dcba.com' => '364016753',
+            'xbaohui.cn' => '364016753',
             'yocoo.cn' => '392061164',
             'whzwjz.com' => '20162156',
             'szslgm.com' => '6614591',
@@ -282,7 +282,6 @@ $data = array(
             'hbycl.com' => '769665798',
             'zldtw.com' => '2689180285',
             'szoujian.com' => '398202029',
-            'ppgs.co.nz' => '735034910',
             'xianbaixian.net' => '7273579',
         )
     ),
