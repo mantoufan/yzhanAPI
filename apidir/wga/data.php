@@ -177,6 +177,7 @@ $data = array(
             'ue348f3.com.cn' => '1994627419',
             'szoujian.com' => '398202029',
             'xianbaixian.net' => '7273579',
+            'ituiduo.com' => '8342648'
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -223,7 +224,10 @@ $data = array(
             'szhlhtiptop.com' => '23127244',
             'shop.51yd.net' => '2958513654',
             'suimo.net' => '1471367',
-            'cat9.top' => '785000642'
+            'cat9.top' => '785000642',
+            'x-deal.cn' => '736221001',
+            'money-mall.com' => '736221001',
+            'ituiduo.com' => '8342648'
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -302,7 +306,7 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             '51yd.net' => '2958513654',
             'suimo.net' => '1471367',
-            '' => '3283601689'
+            'sxpute.com' => '1044745294',
         ),
         'data'=> array(
             'domains' => array(
