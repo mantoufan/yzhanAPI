@@ -304,7 +304,8 @@ $data = array(
             'szoujian.com' => '398202029',
             'shanwaijj.com' => '909374853',
             'ppgs.co.nz' => '735034910',
-            '51yd.net' => '2958513654'
+            '51yd.net' => '2958513654',
+            'tezhuo.com'=> '275757092'
         ),
         'data'=> array(
             'domains' => array(
