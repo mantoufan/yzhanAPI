@@ -195,6 +195,18 @@ $data = array(
             'xiaogandie.com' => '517786695'
         )
     ),
+    'shopxoplugin_notice' => array(
+        'version' => '1.0.5',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
+            'yocoo.cn' => '392061164',
+            'szoujian.com' => '398202029',
+            'kdbg.cn' => '285982013',
+            'it9c.com' => '1853541084',
+            '51yd.net' => '2958513654'
+        )
+    ),
     'shopxoplugin_picviewer' => array(
         'version' => '1.0.3',
         'domain' => array(
@@ -276,7 +288,7 @@ $data = array(
         )
     ),
     'shopxoplugin_dataprettify' => array(
-        'version' => '1.0.4',
+        'version' => '1.0.6',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -293,7 +305,7 @@ $data = array(
         )
     ),
     'shopxoplugin_optimizer' => array(
-        'version' => '1.0.0',
+        'version' => '1.0.4',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
