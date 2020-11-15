@@ -262,7 +262,8 @@ $data = array(
             'it9c.com' => '1853541084',
             'haolidaojia.com' => '13207430743',
             'autdiy.net' => '865042190',
-            'yocoo.cn' => '392061164'
+            'yocoo.cn' => '392061164',
+            'vr2012city.com' => '978987635'
         )
     ),
     'shopxoplugin_favnumedit' => array(
