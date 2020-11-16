@@ -145,7 +145,8 @@ $data = array(
             'shiyicang.store' => '120025737',
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'ytmgs1.com' => '2992552600'
         )
     ),
     'shopxoplugin_orderremarks' => array(
