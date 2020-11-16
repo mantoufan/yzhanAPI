@@ -192,8 +192,7 @@ $data = array(
             'yocoo.cn' => '392061164',
             'hinecloud.cn' => '2326666888',
             'dimeite.com' => '313740969',
-            'xiaogandie.com' => '517786695',
-            'xianbaixian.net' => '7273579',
+            'xiaogandie.com' => '517786695'
         )
     ),
     'shopxoplugin_notice' => array(
@@ -210,6 +209,7 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             'aogou.net' => '5567034',
             'ntfqw.com' => '2220818518',
+            'xianbaixian.net' => '7273579',
         )
     ),
     'shopxoplugin_picviewer' => array(
