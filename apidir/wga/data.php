@@ -204,7 +204,11 @@ $data = array(
             'szoujian.com' => '398202029',
             'kdbg.cn' => '285982013',
             'it9c.com' => '1853541084',
-            '51yd.net' => '2958513654'
+            '51yd.net' => '2958513654',
+            'timber-exch.cn' => '330914992',
+            'ppgs.co.nz' => '735034910',
+            'aogou.net' => '5567034',
+            'ntfqw.com' => '2220818518',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -302,6 +306,7 @@ $data = array(
             'szoujian.com' => '398202029',
             'xianbaixian.net' => '7273579',
             'ppgs.co.nz' => '735034910',
+            'aogou.net' => '5567034',
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -318,11 +323,12 @@ $data = array(
             'shanwaijj.com' => '909374853',
             'ppgs.co.nz' => '735034910',
             '51yd.net' => '2958513654',
-            'tezhuo.com'=> '275757092'
+            'tezhuo.com' => '275757092',
+            'ntfqw.com' => '2220818518'
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'ntfqw.com'
             )
         )
     )
