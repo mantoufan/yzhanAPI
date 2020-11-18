@@ -212,6 +212,7 @@ $data = array(
             'aogou.net' => '5567034',
             'ntfqw.com' => '2220818518',
             'xianbaixian.net' => '7273579',
+            'jinxiuego.com' => '497058719'
         )
     ),
     'shopxoplugin_picviewer' => array(
