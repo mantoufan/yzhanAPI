@@ -68,7 +68,8 @@ $data = array(
             'xianbaixian.net' => '7273579',
             'szoujian.com' => '398202029',
             'bozhongwl.cn' => '2092982401',
-            'b55b.cn' => '799992208'
+            'b55b.cn' => '799992208',
+            'yrbingji.com' => '834467609',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -146,7 +147,8 @@ $data = array(
             'gzchepin.com' => '834467609',
             'hbycl.com' => '769665798',
             'szoujian.com' => '398202029',
-            'ytmgs1.com' => '2992552600'
+            'ytmgs1.com' => '2992552600',
+            'yrbingji.com' => '834467609',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -179,7 +181,8 @@ $data = array(
             'ue348f3.com.cn' => '1994627419',
             'szoujian.com' => '398202029',
             'xianbaixian.net' => '7273579',
-            'ituiduo.com' => '8342648'
+            'ituiduo.com' => '8342648',
+            'onkenoffice.com' => '411103174',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -210,9 +213,10 @@ $data = array(
             'timber-exch.cn' => '330914992',
             'ppgs.co.nz' => '735034910',
             'aogou.net' => '5567034',
-            'ntfqw.com' => '2220818518',
+            'feiqingwang.com' => '2220818518',
             'xianbaixian.net' => '7273579',
-            'jinxiuego.com' => '497058719'
+            'jinxiuego.com' => '497058719',
+            'gpluscake.com' => '1131952925'
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -311,6 +315,7 @@ $data = array(
             'xianbaixian.net' => '7273579',
             'ppgs.co.nz' => '735034910',
             'aogou.net' => '5567034',
+            'yrbingji.com' => '834467609',
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -328,11 +333,11 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             '51yd.net' => '2958513654',
             'tezhuo.com' => '275757092',
-            'ntfqw.com' => '2220818518'
+            'feiqingwang.com' => '2220818518'
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'ntfqw.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com'
             )
         )
     )
