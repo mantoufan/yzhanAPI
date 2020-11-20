@@ -276,7 +276,8 @@ $data = array(
             'sxpute.com' => '1044745294',
             'qfqc.net' => '1044745294',
             'odumall.com' => '97099335',
-            'ahaishen.cn' => '359015905'
+            'ahaishen.cn' => '359015905',
+            'yrbingji.com' => '834467609',
         )
     ),
     'shopxoplugin_goodslocation' => array(
@@ -349,7 +350,9 @@ $data = array(
             'yocoo.cn' => '392061164',
             'cat9.top' => '785000642',
             'ppgs.co.nz' => '735034910',
-            'imartcn.com' => '15915355606'
+            'imartcn.com' => '15915355606',
+            'tezhuo.com' => '275757092',
+            'xianbaixian.net' => '7273579'
         )
     )
 );
