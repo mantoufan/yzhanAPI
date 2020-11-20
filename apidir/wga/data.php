@@ -340,6 +340,17 @@ $data = array(
                 'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com'
             )
         )
+    ),
+    'shopxoplugin_diystyle' => array(
+        'version' => '1.0.2',
+        'domain' => array(
+            'mantoufan.com' => '978572783',
+            'shopxo.net' => '386392432',
+            'yocoo.cn' => '392061164',
+            'cat9.top' => '785000642',
+            'ppgs.co.nz' => '735034910',
+            'imartcn.com' => '15915355606'
+        )
     )
 );
 ?>
