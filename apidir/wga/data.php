@@ -1,7 +1,7 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'version' => '1.0.6',
+        'version' => '1.0.8',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'hbycl.com' => '769665798',
@@ -29,10 +29,6 @@ $data = array(
             '51yd.net' => '2958513654',
             'oaqh.com' => array(
                 'qq' => '360429871',
-                'version' => '1.0.5'
-            ),
-            'zwvmall.com' => array(
-                'qq' => '1135139988',
                 'version' => '1.0.5'
             ),
             'yxdjts.cn' => array(
@@ -70,6 +66,7 @@ $data = array(
             'bozhongwl.cn' => '2092982401',
             'b55b.cn' => '799992208',
             'yrbingji.com' => '834467609',
+            'zwvmall.com' => '1135139988',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -216,7 +213,8 @@ $data = array(
             'feiqingwang.com' => '2220818518',
             'xianbaixian.net' => '7273579',
             'jinxiuego.com' => '497058719',
-            'gpluscake.com' => '1131952925'
+            'gpluscake.com' => '1131952925',
+            'zwvmall.com' => '1135139988',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -352,7 +350,8 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             'imartcn.com' => '15915355606',
             'tezhuo.com' => '275757092',
-            'xianbaixian.net' => '7273579'
+            'xianbaixian.net' => '7273579',
+            'szslgm.com' => '6614591'
         )
     )
 );
