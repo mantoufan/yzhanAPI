@@ -67,6 +67,7 @@ $data = array(
             'b55b.cn' => '799992208',
             'yrbingji.com' => '834467609',
             'zwvmall.com' => '1135139988',
+            'feiqingwang.com' => '2220818518'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -100,7 +101,8 @@ $data = array(
             'zheziyi.cn' => '85656399',
             'xianbaixian.net' => '7273579',
             'limeng.net' => '396039697',
-            'szoujian.com' => '398202029'
+            'szoujian.com' => '398202029',
+            'feiqingwang.com' => '2220818518'
         )
     ),
     'shopxoplugin_servicepro' => array(
