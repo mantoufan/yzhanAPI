@@ -67,7 +67,8 @@ $data = array(
             'b55b.cn' => '799992208',
             'yrbingji.com' => '834467609',
             'zwvmall.com' => '1135139988',
-            'feiqingwang.com' => '2220818518'
+            'feiqingwang.com' => '2220818518',
+            'odumall.com' => '97099335'
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -102,7 +103,8 @@ $data = array(
             'xianbaixian.net' => '7273579',
             'limeng.net' => '396039697',
             'szoujian.com' => '398202029',
-            'feiqingwang.com' => '2220818518'
+            'feiqingwang.com' => '2220818518',
+            'odumall.com' => '97099335'
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -148,6 +150,7 @@ $data = array(
             'szoujian.com' => '398202029',
             'ytmgs1.com' => '2992552600',
             'yrbingji.com' => '834467609',
+            'odumall.com' => '97099335'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -217,6 +220,7 @@ $data = array(
             'jinxiuego.com' => '497058719',
             'gpluscake.com' => '1131952925',
             'zwvmall.com' => '1135139988',
+            'odumall.com' => '97099335'
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -334,11 +338,12 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             '51yd.net' => '2958513654',
             'tezhuo.com' => '275757092',
-            'feiqingwang.com' => '2220818518'
+            'feiqingwang.com' => '2220818518',
+            'odumall.com' => '97099335'
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com'
             )
         )
     ),
@@ -353,7 +358,8 @@ $data = array(
             'imartcn.com' => '15915355606',
             'tezhuo.com' => '275757092',
             'xianbaixian.net' => '7273579',
-            'szslgm.com' => '6614591'
+            'szslgm.com' => '6614591',
+            'odumall.com' => '97099335'
         )
     )
 );
