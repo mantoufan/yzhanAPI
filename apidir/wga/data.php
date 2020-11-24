@@ -255,7 +255,8 @@ $data = array(
             'cat9.top' => '785000642',
             'x-deal.cn' => '736221001',
             'money-mall.com' => '736221001',
-            'ituiduo.com' => '8342648'
+            'ituiduo.com' => '8342648',
+            'xermall.com' => '253727710',
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -348,7 +349,7 @@ $data = array(
         )
     ),
     'shopxoplugin_diystyle' => array(
-        'version' => '1.0.2',
+        'version' => '1.0.3',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
