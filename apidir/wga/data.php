@@ -150,7 +150,8 @@ $data = array(
             'szoujian.com' => '398202029',
             'ytmgs1.com' => '2992552600',
             'yrbingji.com' => '834467609',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            '91box.vip' => '15036173132'
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -220,7 +221,8 @@ $data = array(
             'jinxiuego.com' => '497058719',
             'gpluscake.com' => '1131952925',
             'zwvmall.com' => '1135139988',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            '91box.vip' => '15036173132',
         )
     ),
     'shopxoplugin_picviewer' => array(
