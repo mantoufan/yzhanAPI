@@ -223,6 +223,7 @@ $data = array(
             'zwvmall.com' => '1135139988',
             'odumall.com' => '97099335',
             '91box.vip' => '15036173132',
+            'wanrenle.cn' => '604230811',
         )
     ),
     'shopxoplugin_picviewer' => array(
