@@ -324,6 +324,7 @@ $data = array(
             'ppgs.co.nz' => '735034910',
             'aogou.net' => '5567034',
             'yrbingji.com' => '834467609',
+            'shopxzh.com' => '760238041',
         )
     ),
     'shopxoplugin_optimizer' => array(
