@@ -151,7 +151,8 @@ $data = array(
             'ytmgs1.com' => '2992552600',
             'yrbingji.com' => '834467609',
             'odumall.com' => '97099335',
-            '91box.vip' => '15036173132'
+            '91box.vip' => '15036173132',
+            'vsling.cn' => '7668051',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -224,6 +225,7 @@ $data = array(
             'odumall.com' => '97099335',
             '91box.vip' => '15036173132',
             'wanrenle.cn' => '604230811',
+            'vsling.cn' => '7668051',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -345,11 +347,11 @@ $data = array(
             'tezhuo.com' => '275757092',
             'feiqingwang.com' => '2220818518',
             'odumall.com' => '97099335',
-            'vsling.cn' => '7668051'
+            'vsling.cn' => '7668051',
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn'
             )
         )
     ),
