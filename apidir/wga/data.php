@@ -344,7 +344,8 @@ $data = array(
             '51yd.net' => '2958513654',
             'tezhuo.com' => '275757092',
             'feiqingwang.com' => '2220818518',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            'vsling.cn' => '7668051'
         ),
         'data'=> array(
             'domains' => array(
