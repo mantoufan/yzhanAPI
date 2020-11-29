@@ -68,7 +68,8 @@ $data = array(
             'yrbingji.com' => '834467609',
             'zwvmall.com' => '1135139988',
             'feiqingwang.com' => '2220818518',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            'vsling.cn' => '7668051',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
