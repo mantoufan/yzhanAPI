@@ -263,6 +263,7 @@ $data = array(
             'money-mall.com' => '736221001',
             'ituiduo.com' => '8342648',
             'xermall.com' => '253727710',
+            'hsst.fun' => '443644290'
         )
     ),
     'shopxoplugin_sitemap' => array(
