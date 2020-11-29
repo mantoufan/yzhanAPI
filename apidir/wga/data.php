@@ -369,7 +369,8 @@ $data = array(
             'tezhuo.com' => '275757092',
             'xianbaixian.net' => '7273579',
             'szslgm.com' => '6614591',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            'hsst.fun' => '443644290',
         )
     )
 );
