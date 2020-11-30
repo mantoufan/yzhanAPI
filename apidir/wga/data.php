@@ -70,6 +70,7 @@ $data = array(
             'feiqingwang.com' => '2220818518',
             'odumall.com' => '97099335',
             'vsling.cn' => '7668051',
+            'nihongyu.com' => '253974278',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -227,6 +228,7 @@ $data = array(
             '91box.vip' => '15036173132',
             'wanrenle.cn' => '604230811',
             'vsling.cn' => '7668051',
+            'nihongyu.com' => '253974278',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -371,6 +373,7 @@ $data = array(
             'szslgm.com' => '6614591',
             'odumall.com' => '97099335',
             'hsst.fun' => '443644290',
+            'shopxzh.com' => '760238041',
         )
     )
 );
