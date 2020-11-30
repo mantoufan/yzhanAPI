@@ -189,6 +189,7 @@ $data = array(
             'xianbaixian.net' => '7273579',
             'ituiduo.com' => '8342648',
             'onkenoffice.com' => '411103174',
+            'xlwg.cn' => '468330398'
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
