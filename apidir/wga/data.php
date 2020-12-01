@@ -230,6 +230,7 @@ $data = array(
             'wanrenle.cn' => '604230811',
             'vsling.cn' => '7668051',
             'nihongyu.com' => '253974278',
+            'zjhcxy.cn' => '1074402058',
         )
     ),
     'shopxoplugin_picviewer' => array(
