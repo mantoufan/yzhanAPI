@@ -357,7 +357,7 @@ $data = array(
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'p.yot.pw', 'mtf.yzhan.nl', 'up.yzhan.nl', 'hao.yzhan.nl'
             )
         )
     ),
