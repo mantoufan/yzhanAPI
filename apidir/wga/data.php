@@ -231,6 +231,7 @@ $data = array(
             'vsling.cn' => '7668051',
             'nihongyu.com' => '253974278',
             'zjhcxy.cn' => '1074402058',
+            'bozhongwl.cn' => '2092982401',
         )
     ),
     'shopxoplugin_picviewer' => array(
