@@ -71,6 +71,7 @@ $data = array(
             'odumall.com' => '97099335',
             'vsling.cn' => '7668051',
             'nihongyu.com' => '253974278',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -106,7 +107,8 @@ $data = array(
             'limeng.net' => '396039697',
             'szoujian.com' => '398202029',
             'feiqingwang.com' => '2220818518',
-            'odumall.com' => '97099335'
+            'odumall.com' => '97099335',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -155,6 +157,7 @@ $data = array(
             'odumall.com' => '97099335',
             '91box.vip' => '15036173132',
             'vsling.cn' => '7668051',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -189,7 +192,8 @@ $data = array(
             'xianbaixian.net' => '7273579',
             'ituiduo.com' => '8342648',
             'onkenoffice.com' => '411103174',
-            'xlwg.cn' => '468330398'
+            'xlwg.cn' => '468330398',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -232,6 +236,7 @@ $data = array(
             'nihongyu.com' => '253974278',
             'zjhcxy.cn' => '1074402058',
             'bozhongwl.cn' => '2092982401',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -268,7 +273,8 @@ $data = array(
             'money-mall.com' => '736221001',
             'ituiduo.com' => '8342648',
             'xermall.com' => '253727710',
-            'hsst.fun' => '443644290'
+            'hsst.fun' => '443644290',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -295,6 +301,7 @@ $data = array(
             'odumall.com' => '97099335',
             'ahaishen.cn' => '359015905',
             'yrbingji.com' => '834467609',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_goodslocation' => array(
@@ -335,6 +342,7 @@ $data = array(
             'aogou.net' => '5567034',
             'yrbingji.com' => '834467609',
             'shopxzh.com' => '760238041',
+            'yougouyun.cn' => '2296317041',
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -377,6 +385,7 @@ $data = array(
             'odumall.com' => '97099335',
             'hsst.fun' => '443644290',
             'shopxzh.com' => '760238041',
+            'yougouyun.cn' => '2296317041',
         )
     )
 );
