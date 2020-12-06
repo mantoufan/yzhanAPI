@@ -109,6 +109,7 @@ $data = array(
             'feiqingwang.com' => '2220818518',
             'odumall.com' => '97099335',
             'yougouyun.top' => '2296317041',
+            'ituiduo.com' => '8342648',
         )
     ),
     'shopxoplugin_servicepro' => array(
