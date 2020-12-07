@@ -195,6 +195,7 @@ $data = array(
             'onkenoffice.com' => '411103174',
             'xlwg.cn' => '468330398',
             'yougouyun.top' => '2296317041',
+            'hldshop.com' => '272730490',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
