@@ -110,6 +110,7 @@ $data = array(
             'odumall.com' => '97099335',
             'yougouyun.top' => '2296317041',
             'ituiduo.com' => '8342648',
+            'shop.cn-express.ru' => '3127049228',
         )
     ),
     'shopxoplugin_servicepro' => array(
