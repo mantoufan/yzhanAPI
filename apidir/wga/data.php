@@ -111,6 +111,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'ituiduo.com' => '8342648',
             'shop.cn-express.ru' => '3127049228',
+            'winstone.org.cn' => '259355321',
         )
     ),
     'shopxoplugin_servicepro' => array(
