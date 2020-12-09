@@ -161,6 +161,7 @@ $data = array(
             '91box.vip' => '15036173132',
             'vsling.cn' => '7668051',
             'yougouyun.top' => '2296317041',
+            'muyoo.cn' => '1044745294',
         )
     ),
     'shopxoplugin_orderremarks' => array(
