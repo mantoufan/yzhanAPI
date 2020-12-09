@@ -72,6 +72,7 @@ $data = array(
             'vsling.cn' => '7668051',
             'nihongyu.com' => '253974278',
             'yougouyun.top' => '2296317041',
+            'muyoo.cn' => '1044745294',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
