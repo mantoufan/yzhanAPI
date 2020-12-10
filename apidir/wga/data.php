@@ -369,10 +369,11 @@ $data = array(
             'feiqingwang.com' => '2220818518',
             'odumall.com' => '97099335',
             'vsling.cn' => '7668051',
+            'yczbfx.com' => '11378640',
         ),
         'data'=> array(
             'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'p.yot.pw', 'mtf.yzhan.nl', 'up.yzhan.nl', 'hao.yzhan.nl'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'p.yot.pw', 'mtf.yzhan.nl', 'up.yzhan.nl', 'hao.yzhan.nl', 'shopxo.yczbfx.com'
             )
         )
     ),
