@@ -393,6 +393,7 @@ $data = array(
             'hsst.fun' => '443644290',
             'shopxzh.com' => '760238041',
             'yougouyun.top' => '2296317041',
+            'guojiavip.com' => '249294426',
         )
     )
 );
