@@ -92,7 +92,7 @@ $data = array(
             'szslgm.com' => '6614591',
             '17z.co' => '2985899818',
             'aogou.net' => '5567034',
-            'nbdeli.shop' => '27860082',
+            'huakun58.com' => '27860082',
             'juexian.net' => '3508956676',
             'zb2l3.com' => '438695',
             'jiwujiwu.com' => '267092202',
@@ -201,6 +201,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'hldshop.com' => '272730490',
             'odumall.com' => '97099335',
+            'maitenghuicai.com' => '657544145',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
