@@ -200,6 +200,7 @@ $data = array(
             'xlwg.cn' => '468330398',
             'yougouyun.top' => '2296317041',
             'hldshop.com' => '272730490',
+            'odumall.com' => '97099335',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
