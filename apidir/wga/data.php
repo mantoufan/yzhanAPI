@@ -73,6 +73,7 @@ $data = array(
             'nihongyu.com' => '253974278',
             'yougouyun.top' => '2296317041',
             'muyoo.cn' => '1044745294',
+            'jxjk360.com' => '295332760',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -113,6 +114,7 @@ $data = array(
             'ituiduo.com' => '8342648',
             'shop.cn-express.ru' => '3127049228',
             'winstone.org.cn' => '259355321',
+            'jxjk360.com' => '295332760',
         )
     ),
     'shopxoplugin_servicepro' => array(
