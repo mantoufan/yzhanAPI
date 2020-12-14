@@ -115,7 +115,7 @@ $data = array(
             'shop.cn-express.ru' => '3127049228',
             'winstone.org.cn' => '259355321',
             'jxjk360.com' => '295332760',
-        )
+            'wf-game.com' => '361338008',
     ),
     'shopxoplugin_servicepro' => array(
         'version' => '1.0.7',
