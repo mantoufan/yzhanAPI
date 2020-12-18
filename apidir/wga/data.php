@@ -116,6 +116,7 @@ $data = array(
             'winstone.org.cn' => '259355321',
             'jxjk360.com' => '295332760',
             'wf-game.com' => '361338008',
+            'guchayufu.com' => '849953',
     ),
     'shopxoplugin_servicepro' => array(
         'version' => '1.0.7',
