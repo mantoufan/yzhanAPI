@@ -165,6 +165,7 @@ $data = array(
             'vsling.cn' => '7668051',
             'yougouyun.top' => '2296317041',
             'muyoo.cn' => '1044745294',
+            'szhlhtiptop.com' => '23127244',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -247,6 +248,7 @@ $data = array(
             'zjhcxy.cn' => '1074402058',
             'bozhongwl.cn' => '2092982401',
             'yougouyun.top' => '2296317041',
+            'szhlhtiptop.com' => '23127244',
         )
     ),
     'shopxoplugin_picviewer' => array(
