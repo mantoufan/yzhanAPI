@@ -250,6 +250,7 @@ $data = array(
             'bozhongwl.cn' => '2092982401',
             'yougouyun.top' => '2296317041',
             'szhlhtiptop.com' => '23127244',
+            'jtqdh.com' => '46095602',
         )
     ),
     'shopxoplugin_picviewer' => array(
