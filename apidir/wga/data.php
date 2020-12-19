@@ -315,6 +315,7 @@ $data = array(
             'ahaishen.cn' => '359015905',
             'yrbingji.com' => '834467609',
             'yougouyun.top' => '2296317041',
+            'mieya.vip' => '239967509',
         )
     ),
     'shopxoplugin_goodslocation' => array(
