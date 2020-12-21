@@ -74,6 +74,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'muyoo.cn' => '1044745294',
             'jxjk360.com' => '295332760',
+            'xlwg.cn' => '468330398',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
