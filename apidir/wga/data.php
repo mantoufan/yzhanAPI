@@ -252,6 +252,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'szhlhtiptop.com' => '23127244',
             'jtqdh.com' => '46095602',
+            'njqc.vip' => '269858704',
         )
     ),
     'shopxoplugin_picviewer' => array(
