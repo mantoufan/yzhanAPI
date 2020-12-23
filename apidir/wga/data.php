@@ -118,6 +118,7 @@ $data = array(
             'jxjk360.com' => '295332760',
             'wf-game.com' => '361338008',
             'guchayufu.com' => '849953',
+        )
     ),
     'shopxoplugin_servicepro' => array(
         'version' => '1.0.7',
@@ -383,8 +384,8 @@ $data = array(
             'yczbfx.com' => '11378640',
         ),
         'data'=> array(
-            'domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'www.aogou.net', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'p.yot.pw', 'mtf.yzhan.nl', 'up.yzhan.nl', 'hao.yzhan.nl', 'shopxo.yczbfx.com'
+            'dns_domains' => array(
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com'
             )
         )
     ),
