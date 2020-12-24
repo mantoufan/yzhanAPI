@@ -8,8 +8,7 @@ $data = array(
         'mtf.yzhan.nl',
         'api.dm126.com',
         'www.zzyju.com',
-        'share.yzhan.nl',
-        'emuyi.cn'
+        'share.yzhan.nl'
     )
 );
 ?>
