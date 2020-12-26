@@ -18,10 +18,7 @@ $data = array(
                 'qq' => '1791559110',
                 'version' => '1.0.5'
             ),
-            'jooj.vip' => array(
-                'qq' => '7400686',
-                'version' => '1.0.5'
-            ),
+            'jooj.vip' => '7400686',
             'shopxzh.com' => array(
                 'qq' => '760238041',
                 'version' => '1.0.5'
@@ -118,6 +115,7 @@ $data = array(
             'jxjk360.com' => '295332760',
             'wf-game.com' => '361338008',
             'guchayufu.com' => '849953',
+            'ycypshop.com' => '313405555',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -254,6 +252,7 @@ $data = array(
             'szhlhtiptop.com' => '23127244',
             'jtqdh.com' => '46095602',
             'njqc.vip' => '269858704',
+            'jooj.vip' => '7400686',
         )
     ),
     'shopxoplugin_picviewer' => array(
