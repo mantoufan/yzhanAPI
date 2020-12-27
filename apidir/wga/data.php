@@ -332,15 +332,6 @@ $data = array(
             'vr2012city.com' => '978987635'
         )
     ),
-    'shopxoplugin_favnumedit' => array(
-        'version' => '1.0.0',
-        'domain' => array(
-            'mantoufan.com' => '978572783',
-            'shopxo.net' => '386392432',
-            'xbaohui.cn' => '364016753',
-            'yocoo.cn' => '392061164'
-        )
-    ),
     'shopxoplugin_dataprettify' => array(
         'version' => '1.0.6',
         'domain' => array(
