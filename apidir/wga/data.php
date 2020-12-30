@@ -350,7 +350,7 @@ $data = array(
             'aogou.net' => '5567034',
             'yrbingji.com' => '834467609',
             'shopxzh.com' => '760238041',
-            'yougouyun.top' => '2296317041',
+            'yougouyun.top' => '2296317041'
         )
     ),
     'shopxoplugin_optimizer' => array(
