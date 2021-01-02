@@ -116,6 +116,7 @@ $data = array(
             'wf-game.com' => '361338008',
             'guchayufu.com' => '849953',
             'ycypshop.com' => '313405555',
+            'hldshop.com' => '272730490',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -253,6 +254,7 @@ $data = array(
             'jtqdh.com' => '46095602',
             'njqc.vip' => '269858704',
             'jooj.vip' => '7400686',
+            'hldshop.com' => '272730490',
         )
     ),
     'shopxoplugin_picviewer' => array(
