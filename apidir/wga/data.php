@@ -168,6 +168,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'muyoo.cn' => '1044745294',
             'szhlhtiptop.com' => '23127244',
+            'joyousplus.com' => '350379753',
         )
     ),
     'shopxoplugin_orderremarks' => array(
