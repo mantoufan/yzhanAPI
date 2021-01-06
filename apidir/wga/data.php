@@ -208,6 +208,7 @@ $data = array(
             'hldshop.com' => '272730490',
             'odumall.com' => '97099335',
             'maitenghuicai.com' => '657544145',
+            'mall.wanhuaton.com' => '77331085',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
