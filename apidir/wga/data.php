@@ -72,6 +72,7 @@ $data = array(
             'muyoo.cn' => '1044745294',
             'jxjk360.com' => '295332760',
             'xlwg.cn' => '468330398',
+            'adt.live' => '403258632',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -354,7 +355,8 @@ $data = array(
             'aogou.net' => '5567034',
             'yrbingji.com' => '834467609',
             'shopxzh.com' => '760238041',
-            'yougouyun.top' => '2296317041'
+            'yougouyun.top' => '2296317041',
+            'faka112.com' => '2272510474',
         )
     ),
     'shopxoplugin_optimizer' => array(
