@@ -73,6 +73,7 @@ $data = array(
             'jxjk360.com' => '295332760',
             'xlwg.cn' => '468330398',
             'adt.live' => '403258632',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -170,6 +171,7 @@ $data = array(
             'muyoo.cn' => '1044745294',
             'szhlhtiptop.com' => '23127244',
             'joyousplus.com' => '350379753',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -210,6 +212,7 @@ $data = array(
             'odumall.com' => '97099335',
             'maitenghuicai.com' => '657544145',
             'mall.wanhuaton.com' => '77331085',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -258,6 +261,7 @@ $data = array(
             'njqc.vip' => '269858704',
             'jooj.vip' => '7400686',
             'hldshop.com' => '272730490',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -296,6 +300,7 @@ $data = array(
             'xermall.com' => '253727710',
             'hsst.fun' => '443644290',
             'yougouyun.top' => '2296317041',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -379,10 +384,11 @@ $data = array(
             'vsling.cn' => '7668051',
             'yczbfx.com' => '11378640',
             'xhsc86.com' => '15036173132',
+            'emcn.net.cn' => '1953777141',
         ),
         'data'=> array(
             'dns_domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn'
             )
         )
     ),
@@ -403,6 +409,7 @@ $data = array(
             'shopxzh.com' => '760238041',
             'yougouyun.top' => '2296317041',
             'guojiavip.com' => '249294426',
+            'emcn.net.cn' => '1953777141',
         )
     )
 );
