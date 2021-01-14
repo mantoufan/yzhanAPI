@@ -385,6 +385,7 @@ $data = array(
             'yczbfx.com' => '11378640',
             'xhsc86.com' => '15036173132',
             'emcn.net.cn' => '1953777141',
+            '12way.tech' => '939998117',
         ),
         'data'=> array(
             'dns_domains' => array(
