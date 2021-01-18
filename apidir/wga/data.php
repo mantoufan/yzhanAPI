@@ -174,6 +174,7 @@ $data = array(
             'szhlhtiptop.com' => '23127244',
             'joyousplus.com' => '350379753',
             'emcn.net.cn' => '1953777141',
+            'bjwsj.cn' => '1350052579',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -416,6 +417,7 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             'shop.czorange.com' => '1950974755',
             'smartappcn.com' => '38443962',
+            'bjwsj.cn' => '1350052579',
         )
     )
 );
