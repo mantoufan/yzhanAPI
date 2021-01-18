@@ -74,6 +74,8 @@ $data = array(
             'xlwg.cn' => '468330398',
             'adt.live' => '403258632',
             'emcn.net.cn' => '1953777141',
+            'venamaster.cn' => '46260826',
+            'kinglist.cn' => '148103369',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -119,8 +121,6 @@ $data = array(
             'guchayufu.com' => '849953',
             'ycypshop.com' => '313405555',
             'hldshop.com' => '272730490',
-            'venamaster.cn' => '46260826',
-            'kinglist.cn' => '148103369',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -415,6 +415,7 @@ $data = array(
             'guojiavip.com' => '249294426',
             'emcn.net.cn' => '1953777141',
             'shop.czorange.com' => '1950974755',
+            'smartappcn.com' => '38443962',
         )
     )
 );
