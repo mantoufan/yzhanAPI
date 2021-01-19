@@ -76,6 +76,7 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             'venamaster.cn' => '46260826',
             'kinglist.cn' => '148103369',
+            'dgchencai.com' => '15090360678',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -175,6 +176,7 @@ $data = array(
             'joyousplus.com' => '350379753',
             'emcn.net.cn' => '1953777141',
             'bjwsj.cn' => '1350052579',
+            'dgchencai.com' => '15090360678',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -266,6 +268,7 @@ $data = array(
             'jooj.vip' => '7400686',
             'hldshop.com' => '272730490',
             'emcn.net.cn' => '1953777141',
+            'dgchencai.com' => '15090360678',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -305,6 +308,7 @@ $data = array(
             'hsst.fun' => '443644290',
             'yougouyun.top' => '2296317041',
             'emcn.net.cn' => '1953777141',
+            'dgchencai.com' => '15090360678',
         )
     ),
     'shopxoplugin_sitemap' => array(
@@ -390,6 +394,7 @@ $data = array(
             'xhsc86.com' => '15036173132',
             'emcn.net.cn' => '1953777141',
             '12way.tech' => '939998117',
+            'dgchencai.com' => '15090360678',
         ),
         'data'=> array(
             'dns_domains' => array(
