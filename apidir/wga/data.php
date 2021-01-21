@@ -122,6 +122,7 @@ $data = array(
             'guchayufu.com' => '849953',
             'ycypshop.com' => '313405555',
             'hldshop.com' => '272730490',
+            'smartappcn.com' => '38443962',
         )
     ),
     'shopxoplugin_servicepro' => array(
