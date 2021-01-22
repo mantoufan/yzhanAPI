@@ -123,6 +123,7 @@ $data = array(
             'ycypshop.com' => '313405555',
             'hldshop.com' => '272730490',
             'smartappcn.com' => '38443962',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -178,6 +179,7 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             'bjwsj.cn' => '1350052579',
             'dgchencai.com' => '15090360678',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_orderremarks' => array(
@@ -270,6 +272,7 @@ $data = array(
             'hldshop.com' => '272730490',
             'emcn.net.cn' => '1953777141',
             'dgchencai.com' => '15090360678',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -372,6 +375,7 @@ $data = array(
             'shopxzh.com' => '760238041',
             'yougouyun.top' => '2296317041',
             'faka112.com' => '2272510474',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_optimizer' => array(
@@ -397,10 +401,11 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             '12way.tech' => '939998117',
             'dgchencai.com' => '15090360678',
+            'wydlp.com' => '269695596',
         ),
         'data'=> array(
             'dns_domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn', 'www.wydlp.com'
             )
         )
     ),
@@ -425,6 +430,7 @@ $data = array(
             'shop.czorange.com' => '1950974755',
             'smartappcn.com' => '38443962',
             'bjwsj.cn' => '1350052579',
+            'wydlp.com' => '269695596',
         )
     )
 );
