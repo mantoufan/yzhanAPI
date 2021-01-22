@@ -222,6 +222,7 @@ $data = array(
             'mall.wanhuaton.com' => '77331085',
             'emcn.net.cn' => '1953777141',
             'shop.czorange.com' => '1950974755',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_orderdeliverynotice' => array(
@@ -313,7 +314,8 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'emcn.net.cn' => '1953777141',
             'dgchencai.com' => '15090360678',
-            'jwmks.com' => '464901743'
+            'jwmks.com' => '464901743',
+            'wydlp.com' => '269695596',
         )
     ),
     'shopxoplugin_sitemap' => array(
