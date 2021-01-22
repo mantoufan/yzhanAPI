@@ -310,6 +310,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'emcn.net.cn' => '1953777141',
             'dgchencai.com' => '15090360678',
+            'jwmks.com' => '464901743'
         )
     ),
     'shopxoplugin_sitemap' => array(
