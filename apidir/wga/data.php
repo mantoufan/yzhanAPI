@@ -315,7 +315,6 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'emcn.net.cn' => '1953777141',
             'dgchencai.com' => '15090360678',
-            'jwmks.com' => '464901743',
             'wydlp.com' => '269695596',
             'cnganen.cn' => '164786152',
         )
@@ -407,10 +406,11 @@ $data = array(
             '12way.tech' => '939998117',
             'dgchencai.com' => '15090360678',
             'wydlp.com' => '269695596',
+            'chnhudong.com' => '15036173132',
         ),
         'data'=> array(
             'dns_domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn', 'www.wydlp.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn', 'www.wydlp.com', 'chnhudong.com'
             )
         )
     ),
