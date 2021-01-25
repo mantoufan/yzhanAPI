@@ -128,7 +128,7 @@ $data = array(
         )
     ),
     'shopxoplugin_servicepro' => array(
-        'version' => '1.0.7',
+        'version' => '1.1.0',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'szslgm.com' => array(
