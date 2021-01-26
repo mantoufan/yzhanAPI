@@ -145,10 +145,6 @@ $data = array(
                 'qq' => '438695',
                 'version' => '1.0.6'
             ),
-            'zypay.cn' => array(
-                'qq' => '3381516647',
-                'version' => '1.0.6'
-            ),
             'xianbaixian.net' => '7273579',
             'kdbg.cn' => '285982013',
             'wojia.zone' => '918028',
@@ -182,6 +178,7 @@ $data = array(
             'bjwsj.cn' => '1350052579',
             'dgchencai.com' => '15090360678',
             'wydlp.com' => '269695596',
+            'zypay.cn' => '3381516647',
         )
     ),
     'shopxoplugin_orderremarks' => array(
