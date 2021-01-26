@@ -78,6 +78,7 @@ $data = array(
             'kinglist.cn' => '148103369',
             'dgchencai.com' => '15090360678',
             'wydlp.com' => '269695596',
+            'zjhcxy.cn' => '1074402058',
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
@@ -275,6 +276,7 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             'dgchencai.com' => '15090360678',
             'wydlp.com' => '269695596',
+            'zypay.cn' => '3381516647',
         )
     ),
     'shopxoplugin_picviewer' => array(
