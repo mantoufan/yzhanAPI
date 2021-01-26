@@ -126,6 +126,7 @@ $data = array(
             'hldshop.com' => '272730490',
             'smartappcn.com' => '38443962',
             'wydlp.com' => '269695596',
+            'emcn.net.cn' => '1953777141',
         )
     ),
     'shopxoplugin_servicepro' => array(
