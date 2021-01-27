@@ -124,7 +124,7 @@ $data = array(
             'guchayufu.com' => '849953',
             'ycypshop.com' => '313405555',
             'hldshop.com' => '272730490',
-            'smartappcn.com' => '38443962',
+            'klglobal.com.cn' => '38443962',
             'wydlp.com' => '269695596',
             'emcn.net.cn' => '1953777141',
         )
@@ -434,7 +434,7 @@ $data = array(
             'guojiavip.com' => '249294426',
             'emcn.net.cn' => '1953777141',
             'shop.czorange.com' => '1950974755',
-            'smartappcn.com' => '38443962',
+            'klglobal.com.cn' => '38443962',
             'bjwsj.cn' => '1350052579',
             'wydlp.com' => '269695596',
         )
