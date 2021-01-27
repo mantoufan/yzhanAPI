@@ -381,6 +381,7 @@ $data = array(
             'yougouyun.top' => '2296317041',
             'faka112.com' => '2272510474',
             'wydlp.com' => '269695596',
+            'xiamenrongfei.cn' => '2609852722',
         )
     ),
     'shopxoplugin_optimizer' => array(
