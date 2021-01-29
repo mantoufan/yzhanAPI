@@ -180,6 +180,7 @@ $data = array(
             'dgchencai.com' => '15090360678',
             'wydlp.com' => '269695596',
             'zypay.cn' => '3381516647',
+            'sbliaotian.top' => '1916326119'
         )
     ),
     'shopxoplugin_orderremarks' => array(
