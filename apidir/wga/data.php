@@ -358,6 +358,7 @@ $data = array(
     'shopxoplugin_goodslocation' => array(
         'version' => '1.0.4',
         'domain' => array(
+            'shopxo.net' => '641467576',
             'mantoufan.com' => '978572783',
             'it9c.com' => '1853541084',
             'haolidaojia.com' => '13207430743',
