@@ -129,6 +129,7 @@ $data = array(
             'wydlp.com' => '269695596',
             'emcn.net.cn' => '1953777141',
             'xxbook.cn' => '727818001',
+            '17g.app' => '423879',
         )
     ),
     'shopxoplugin_servicepro' => array(
