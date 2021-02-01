@@ -1,7 +1,7 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'version' => '1.0.8',
+        'version' => '1.1.1',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'hbycl.com' => '769665798',
@@ -83,7 +83,7 @@ $data = array(
         )
     ),
     'shopxoplugin_thirdpartylogin' => array(
-        'version' => '1.0.7',
+        'version' => '1.0.9',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
@@ -133,7 +133,7 @@ $data = array(
         )
     ),
     'shopxoplugin_servicepro' => array(
-        'version' => '1.1.0',
+        'version' => '1.1.1',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'szslgm.com' => array(
@@ -357,7 +357,7 @@ $data = array(
         )
     ),
     'shopxoplugin_goodslocation' => array(
-        'version' => '1.0.4',
+        'version' => '1.0.7',
         'domain' => array(
             'shopxo.net' => '641467576',
             'mantoufan.com' => '978572783',
@@ -394,7 +394,7 @@ $data = array(
         )
     ),
     'shopxoplugin_optimizer' => array(
-        'version' => '1.0.4',
+        'version' => '1.0.5',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
