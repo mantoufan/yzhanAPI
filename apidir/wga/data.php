@@ -391,6 +391,7 @@ $data = array(
             'wydlp.com' => '269695596',
             'xiamenrongfei.cn' => '2609852722',
             'xxbook.cn' => '727818001',
+            'fexoe.com' => '27375399',
         )
     ),
     'shopxoplugin_optimizer' => array(
