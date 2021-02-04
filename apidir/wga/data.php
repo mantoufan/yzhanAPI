@@ -449,6 +449,7 @@ $data = array(
             'klglobal.com.cn' => '38443962',
             'bjwsj.cn' => '1350052579',
             'wydlp.com' => '269695596',
+            'aogou.net' => '5567034',
         )
     )
 );
