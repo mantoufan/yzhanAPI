@@ -129,7 +129,7 @@ $data = array(
             'wydlp.com' => '269695596',
             'emcn.net.cn' => '1953777141',
             'xxbook.cn' => '727818001',
-            '17g.app' => '423879',
+            'qzbeyond.cn' => '423879',
         )
     ),
     'shopxoplugin_servicepro' => array(
@@ -281,6 +281,7 @@ $data = array(
             'wydlp.com' => '269695596',
             'zypay.cn' => '3381516647',
             'xxbook.cn' => '727818001',
+            'qzbeyond.cn' => '423879',
         )
     ),
     'shopxoplugin_picviewer' => array(
@@ -392,6 +393,7 @@ $data = array(
             'xiamenrongfei.cn' => '2609852722',
             'xxbook.cn' => '727818001',
             'fexoe.com' => '27375399',
+            'qzbeyond.cn' => '423879',
         )
     ),
     'shopxoplugin_optimizer' => array(
