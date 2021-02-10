@@ -282,7 +282,6 @@ $data = array(
             'zypay.cn' => '3381516647',
             'xxbook.cn' => '727818001',
             'qzbeyond.cn' => '423879',
-            'wd2050.com' => '2227397673',
         )
     ),
     'shopxoplugin_picviewer' => array(
