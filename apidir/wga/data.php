@@ -355,6 +355,7 @@ $data = array(
             'cnganen.cn' => '164786152',
             'hzdavos.com' => '626006498',
             'xxbook.cn' => '727818001',
+            '159shouji.com' => '19554843'
         )
     ),
     'shopxoplugin_goodslocation' => array(
