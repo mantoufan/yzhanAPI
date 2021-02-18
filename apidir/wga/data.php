@@ -130,6 +130,7 @@ $data = array(
             'emcn.net.cn' => '1953777141',
             'xxbook.cn' => '727818001',
             'qzbeyond.cn' => '423879',
+            'aonuody.com' => '1258970939',
         )
     ),
     'shopxoplugin_servicepro' => array(
