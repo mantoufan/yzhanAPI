@@ -424,10 +424,11 @@ $data = array(
             'wydlp.com' => '269695596',
             'chnhudong.com' => '15036173132',
             'xxbook.cn' => '727818001',
+            'alibaba360.cn' => '535317793',
         ),
         'data'=> array(
             'dns_domains' => array(
-                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn', 'www.wydlp.com', 'chnhudong.com'
+                'yu.mantoufan.com', 'shop.yocoo.cn', 'www.cnqcq.com', 'liuliangw.cn', 'sc.szslgm.com', 'www.szoujian.com', 'www.ppgs.co.nz', 'shop.51yd.net', 'tezhuo.com', 'feiqingwang.com', 'odumall.com', 'vsling.cn', 'shopxo.yczbfx.com', 'xhsc86.com', 'www.emcn.net.cn', 'www.wydlp.com', 'chnhudong.com', 'www.alibaba360.cn'
             )
         )
     ),
@@ -454,6 +455,7 @@ $data = array(
             'bjwsj.cn' => '1350052579',
             'wydlp.com' => '269695596',
             'aogou.net' => '5567034',
+            'alibaba360.cn' => '535317793',
         )
     )
 );
