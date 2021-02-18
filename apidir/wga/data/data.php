@@ -1,7 +1,7 @@
 <?php
 $data = array(
     'shopxoplugin_expressinwebfree' => array(
-        'version' => '1.1.1',
+        'version' => '1.0.10',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'hbycl.com' => '769665798',
