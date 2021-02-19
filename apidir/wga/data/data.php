@@ -286,7 +286,7 @@ $data = array(
         )
     ),
     'shopxoplugin_picviewer' => array(
-        'version' => '1.0.3',
+        'version' => '1.0.7',
         'domain' => array(
             'mantoufan.com' => '978572783',
             'shopxo.net' => '386392432',
