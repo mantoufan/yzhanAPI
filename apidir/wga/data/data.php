@@ -327,6 +327,7 @@ $data = array(
       'wydlp.com' => '269695596',
       'cnganen.cn' => '164786152',
       'qzbeyond.cn' => '423879',
+      'yunlin168.com' => '1853541084',
     )
   ),
   'shopxoplugin_sitemap' => array(
@@ -465,6 +466,8 @@ $data = array(
     'version' => '1.0.0',
     'domain' => array(
       'mantoufan.com' => '978572783',
+      'wydlp.com' => '1269695596',
+      'jinxiuego.com' => '497058719',
     )
   )
 );
