@@ -79,7 +79,7 @@ $data = array(
       'dgchencai.com' => '15090360678',
       'wydlp.com' => '269695596',
       'zjhcxy.cn' => '1074402058',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
     )
   ),
   'shopxoplugin_thirdpartylogin' => array(
@@ -128,7 +128,7 @@ $data = array(
       'klglobal.com.cn' => '38443962',
       'wydlp.com' => '269695596',
       'emcn.net.cn' => '1953777141',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
       'qzbeyond.cn' => '423879',
       'aonuody.com' => '1258970939',
       'pj.link' => '828656',
@@ -186,7 +186,7 @@ $data = array(
       'wydlp.com' => '269695596',
       'zypay.cn' => '3381516647',
       'sbliaotian.top' => '1916326119',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
     )
   ),
   'shopxoplugin_orderremarks' => array(
@@ -283,7 +283,7 @@ $data = array(
       'dgchencai.com' => '15090360678',
       'wydlp.com' => '269695596',
       'zypay.cn' => '3381516647',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
       'qzbeyond.cn' => '423879',
     )
   ),
@@ -359,7 +359,7 @@ $data = array(
       'mieya.vip' => '239967509',
       'cnganen.cn' => '164786152',
       'hzdavos.com' => '626006498',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
       '159shouji.com' => '19554843',
       'qzbeyond.cn' => '423879',
     )
@@ -398,7 +398,7 @@ $data = array(
       'faka112.com' => '2272510474',
       'wydlp.com' => '269695596',
       'xiamenrongfei.cn' => '2609852722',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
       'fexoe.com' => '27375399',
       'qzbeyond.cn' => '423879',
     )
@@ -428,7 +428,7 @@ $data = array(
       'dgchencai.com' => '15090360678',
       'wydlp.com' => '269695596',
       'chnhudong.com' => '15036173132',
-      'xxbook.cn' => '727818001',
+      'ecbook.cn' => '727818001',
       'alibaba360.cn' => '535317793',
     ),
     'data'=> array(
