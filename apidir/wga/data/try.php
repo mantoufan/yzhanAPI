@@ -629,6 +629,10 @@ return array (
       array (
         'expire' => '2021-02-24 03:17:10',
       ),
+      '1.0.10' => 
+      array (
+        'expire' => '2021-02-25 07:12:20',
+      ),
     ),
   ),
   'www.ecbook.cn' => 
@@ -665,6 +669,26 @@ return array (
       '1.0.9' => 
       array (
         'expire' => '2021-02-24 09:23:31',
+      ),
+    ),
+  ),
+  'tao.d99s.cn' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.7' => 
+      array (
+        'expire' => '2021-02-25 06:18:15',
+      ),
+    ),
+  ),
+  'www.51yd.club' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.10' => 
+      array (
+        'expire' => '2021-02-26 05:44:18',
       ),
     ),
   ),
