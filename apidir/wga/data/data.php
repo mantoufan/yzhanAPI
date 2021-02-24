@@ -231,7 +231,6 @@ $data = array(
       'shop.czorange.com' => '1950974755',
       'wydlp.com' => '269695596',
       'qzbeyond.cn' => '423879',
-      'it9c.com' => '1853541084',
     )
   ),
   'shopxoplugin_orderdeliverynotice' => array(
@@ -363,7 +362,6 @@ $data = array(
       'ecbook.cn' => '727818001',
       '159shouji.com' => '19554843',
       'qzbeyond.cn' => '423879',
-      'it9c.com' => '1853541084',
     )
   ),
   'shopxoplugin_goodslocation' => array(
@@ -471,7 +469,6 @@ $data = array(
       'mantoufan.com' => '978572783',
       'wydlp.com' => '1269695596',
       'jinxiuego.com' => '497058719',
-      'it9c.com' => '1853541084',
     )
   )
 );
