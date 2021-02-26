@@ -187,6 +187,7 @@ $data = array(
       'zypay.cn' => '3381516647',
       'sbliaotian.top' => '1916326119',
       'ecbook.cn' => '727818001',
+      'eepmall.com' => '1114329797',
     )
   ),
   'shopxoplugin_orderremarks' => array(
