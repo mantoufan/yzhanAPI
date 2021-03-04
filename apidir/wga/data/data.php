@@ -132,6 +132,7 @@ $data = array(
       'qzbeyond.cn' => '423879',
       'aonuody.com' => '1258970939',
       'pj.link' => '828656',
+      'jtdzsw.cn' => '15827234',
     )
   ),
   'shopxoplugin_servicepro' => array(
