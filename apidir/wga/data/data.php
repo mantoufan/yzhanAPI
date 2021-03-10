@@ -19,7 +19,7 @@ $data = array(
         'version' => '1.0.5'
       ),
       'jooj.vip' => '7400686',
-      '47.99.164.201' => array(
+      'shopxzh.com' => array(
         'qq' => '760238041',
         'version' => '1.0.5'
       ),
