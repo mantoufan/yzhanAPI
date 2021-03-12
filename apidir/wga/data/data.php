@@ -404,6 +404,7 @@ $data = array(
       'ecbook.cn' => '727818001',
       'fexoe.com' => '27375399',
       'qzbeyond.cn' => '423879',
+      'rugpc.com' => '124701032',
     )
   ),
   'shopxoplugin_optimizer' => array(
