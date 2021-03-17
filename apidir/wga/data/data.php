@@ -60,7 +60,7 @@ $data = array(
       'zheziyi.cn' => '85656399',
       'xianbaixian.net' => '7273579',
       'szoujian.com' => '398202029',
-      'bozhongwl.cn' => '2092982401',
+      'apande.cn' => '2092982401',
       'b55b.cn' => '799992208',
       'yrbingji.com' => '834467609',
       'zwvmall.com' => '1135139988',
@@ -233,7 +233,8 @@ $data = array(
       'shop.czorange.com' => '1950974755',
       'wydlp.com' => '269695596',
       'qzbeyond.cn' => '423879',
-    )
+	  
+	  'zhiqi.online' => '429071852'    )
   ),
   'shopxoplugin_orderdeliverynotice' => array(
     'version' => '',
@@ -274,7 +275,7 @@ $data = array(
       'vsling.cn' => '7668051',
       'nihongyu.com' => '253974278',
       'zjhcxy.cn' => '1074402058',
-      'bozhongwl.cn' => '2092982401',
+      'apande.cn' => '2092982401',
       'yougouyun.top' => '2296317041',
       'szhlhtiptop.com' => '23127244',
       'jtqdh.com' => '46095602',
