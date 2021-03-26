@@ -134,7 +134,7 @@ $data = array(
       'pj.link' => '828656',
       'jtdzsw.cn' => '15827234',
       'nlmdzsw.vip' => '1',
-      '028klgay.com' => '1',
+      '028klgay.com' => '1696692989',
     )
   ),
   'shopxoplugin_servicepro' => array(
