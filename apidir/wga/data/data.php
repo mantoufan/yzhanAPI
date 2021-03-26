@@ -83,7 +83,7 @@ $data = array(
     )
   ),
   'shopxoplugin_thirdpartylogin' => array(
-    'version' => '1.1.1',
+    'version' => '1.1.2',
     'domain' => array(
       'mantoufan.com' => '978572783',
       'shopxo.net' => '386392432',
