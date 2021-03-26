@@ -133,6 +133,8 @@ $data = array(
       'aonuody.com' => '1258970939',
       'pj.link' => '828656',
       'jtdzsw.cn' => '15827234',
+      'nlmdzsw.vip' => '1',
+      '028klgay.com' => '1',
     )
   ),
   'shopxoplugin_servicepro' => array(
@@ -189,6 +191,8 @@ $data = array(
       'sbliaotian.top' => '1916326119',
       'ecbook.cn' => '727818001',
       'eepmall.com' => '1114329797',
+      'henufz.com' => '13031119422',
+      'yinduzahuopu.com' => '1',
     )
   ),
   'shopxoplugin_orderremarks' => array(
@@ -233,8 +237,9 @@ $data = array(
       'shop.czorange.com' => '1950974755',
       'wydlp.com' => '269695596',
       'qzbeyond.cn' => '423879',
-	  
-	  'zhiqi.online' => '429071852'    )
+	    'zhiqi.online' => '429071852',
+      'rugpc.com' => '124701032'
+    )
   ),
   'shopxoplugin_orderdeliverynotice' => array(
     'version' => '',
@@ -289,6 +294,7 @@ $data = array(
       'ecbook.cn' => '727818001',
       'qzbeyond.cn' => '423879',
       'kalulidemimi.com' => '727078791',
+      'henufz.com' => '13031119422',
     )
   ),
   'shopxoplugin_picviewer' => array(
@@ -406,6 +412,7 @@ $data = array(
       'fexoe.com' => '27375399',
       'qzbeyond.cn' => '423879',
       'rugpc.com' => '124701032',
+      'gn891.cn' => '1',
     )
   ),
   'shopxoplugin_optimizer' => array(
@@ -474,6 +481,7 @@ $data = array(
       'mantoufan.com' => '978572783',
       'wydlp.com' => '1269695596',
       'jinxiuego.com' => '497058719',
+      'yanhuadaoju.com' => '3882903',
     )
   )
 );
