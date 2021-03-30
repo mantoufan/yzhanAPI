@@ -473,6 +473,7 @@ $data = array(
       'wydlp.com' => '269695596',
       'aogou.net' => '5567034',
       'alibaba360.cn' => '535317793',
+      'xjip.info' => '42933925',
     )
   ),
   'shopxoplugin_goodsremarks' => array(
