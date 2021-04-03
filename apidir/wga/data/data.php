@@ -135,6 +135,7 @@ $data = array(
       'jtdzsw.cn' => '15827234',
       'nlmdzsw.vip' => '1',
       '028klgay.com' => '1696692989',
+      'xingyou32.xyz' => '1696692989',
     )
   ),
   'shopxoplugin_servicepro' => array(
