@@ -1555,6 +1555,10 @@ return array (
       array (
         'expire' => '2021-03-23 01:27:12',
       ),
+      '1.0.9' => 
+      array (
+        'expire' => '2021-04-07 11:12:42',
+      ),
     ),
   ),
   '533547e47ee44d3d.cdn.jiashule.com' => 
@@ -1975,6 +1979,66 @@ return array (
       '1.0.10' => 
       array (
         'expire' => '2021-04-05 07:48:28',
+      ),
+    ),
+  ),
+  'phyc.ats123.cn' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.6' => 
+      array (
+        'expire' => '2021-04-06 11:10:48',
+      ),
+    ),
+  ),
+  'fyyc.ats123.cn' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.6' => 
+      array (
+        'expire' => '2021-04-06 11:37:41',
+      ),
+    ),
+  ),
+  '706807.com' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.10' => 
+      array (
+        'expire' => '2021-04-07 03:36:54',
+      ),
+    ),
+  ),
+  'jinpinqiutai.top' => 
+  array (
+    'shopxoplugin_picviewer' => 
+    array (
+      '1.0.6' => 
+      array (
+        'expire' => '2021-04-08 12:12:30',
+      ),
+    ),
+  ),
+  'www.colalove.com' => 
+  array (
+    'shopxoplugin_orderremarks' => 
+    array (
+      '1.0.4' => 
+      array (
+        'expire' => '2021-04-09 09:41:03',
+      ),
+    ),
+  ),
+  'www.tgtb888.com' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.10' => 
+      array (
+        'expire' => '2021-04-09 11:23:58',
       ),
     ),
   ),

@@ -80,6 +80,7 @@ $data = array(
       'wydlp.com' => '269695596',
       'zjhcxy.cn' => '1074402058',
       'ecbook.cn' => '727818001',
+      'tgtb888.com' => '574391180',
     )
   ),
   'shopxoplugin_thirdpartylogin' => array(
