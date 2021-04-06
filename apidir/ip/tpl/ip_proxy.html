@@ -37,12 +37,12 @@
     </tbody>
   </table>
   <script>
-    var a = document.getElementsByTagName('A'), i = -1, cur, t = location.href.match(/ip_type=(\w+)&/);
-    if (t) cur = t[1];
+    var a = document.getElementsByTagName('A'), i = -1, cur, t = location.href.match(/ip_type=(\w+)&/)
+    if (t) cur = t[1]
     while (++i < a.length) {
-      t = a[i].innerHTML.toLocaleLowerCase();
-      if (cur === t) a[i].parentNode.classList.add('pure-menu-selected');
-      a[i].setAttribute('href', location.href.replace(/ip_type=(\w+)&/,'ip_type=' + t + '&'));
+      t = a[i].innerHTML.toLocaleLowerCase()
+      if (cur === t) a[i].parentNode.classList.add('pure-menu-selected')
+      a[i].setAttribute('href', location.href.replace(/ip_type=(\w+)&/,'ip_type=' + t + '&'))
     }
   </script>
 </body>
