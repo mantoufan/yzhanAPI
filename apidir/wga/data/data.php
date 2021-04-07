@@ -1,4 +1,4 @@
-<?php
+<?php 
 $data = array(
   'shopxoplugin_expressinwebfree' => array(
     'version' => '1.0.10',
