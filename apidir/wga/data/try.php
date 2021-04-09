@@ -2042,5 +2042,55 @@ return array (
       ),
     ),
   ),
+  'chengjia.shop' => 
+  array (
+    'shopxoplugin_picviewer' => 
+    array (
+      '1.0.6' => 
+      array (
+        'expire' => '2021-04-10 10:16:20',
+      ),
+    ),
+  ),
+  '103.45.65.131' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.10' => 
+      array (
+        'expire' => '2021-04-11 03:08:54',
+      ),
+    ),
+  ),
+  'www.tgtb188.com' => 
+  array (
+    'shopxoplugin_expressinwebfree' => 
+    array (
+      '1.0.10' => 
+      array (
+        'expire' => '2021-04-11 09:35:10',
+      ),
+    ),
+  ),
+  'gai.jijiex.com' => 
+  array (
+    'shopxoplugin_orderremarks' => 
+    array (
+      '1.0.4' => 
+      array (
+        'expire' => '2021-04-11 03:10:09',
+      ),
+    ),
+  ),
+  '211.149.228.198' => 
+  array (
+    'shopxoplugin_orderremarks' => 
+    array (
+      '1.0.4' => 
+      array (
+        'expire' => '2021-04-12 02:54:46',
+      ),
+    ),
+  ),
 );
 ?>

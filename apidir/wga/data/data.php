@@ -242,7 +242,8 @@ $data = array(
       'wydlp.com' => '269695596',
       'qzbeyond.cn' => '423879',
 	    'zhiqi.online' => '429071852',
-      'rugpc.com' => '124701032'
+      'rugpc.com' => '124701032',
+      'jijiex.com' => '278927879',
     )
   ),
   'shopxoplugin_orderdeliverynotice' => array(
