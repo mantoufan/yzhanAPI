@@ -263,7 +263,7 @@ $data = array(
       'yocoo.cn' => '392061164',
       'hinecloud.cn' => '2326666888',
       'dimeite.com' => '313740969',
-      'xiaogandie.com' => '517786695'
+      'xiaogandie.com' => '517786695',
     )
   ),
   'shopxoplugin_notice' => array(
