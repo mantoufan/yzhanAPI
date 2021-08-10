@@ -247,7 +247,7 @@ $data = array(
 	    'zhiqi.online' => '429071852',
       'rugpc.com' => '124701032',
       'jijiex.com' => '278927879',
-      'shisanpin.cn' => '1',
+      'shisanpin.cn' => '12',
       'hbycl.com' => '769665798',
       'dgchencai.com' => '15090360678'
     )
