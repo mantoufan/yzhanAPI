@@ -1,12 +1,23 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"></head>
-<?php if(isset($data['dns'])) { ?>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <?php if(isset($data['dns'])) { ?>
     <?php foreach($data['dns'] as $k => $domain) { ?>
     <link rel="dns-prefetch" href="//<?php echo $domain; ?>">
+    <link rel="preconnect" href="//<?php echo $domain; ?>" crossorigin>
     <?php } ?>
-<?php } ?>
-<?php if(!empty($dm126)) { ?>
-<script src="//api.share.os120.com/plugin/Analysis/?<?php echo $dm126;?>"></script>
-<?php } else { ?>
-<script>var h=window.location.hash;if(h){window.location.href=decodeURIComponent(h.substr(1));}</script>
-<?php } ?>
-<script src="//s4.cnzz.com/stat.php?id=1261553684&web_id=1261553684" language="JavaScript"></script></html>
+    <?php } ?>
+</head>
+
+<body>
+    <?php if(!empty($dm126)) { ?>
+    <script src="//api.share.os120.com/plugin/Analysis/?<?php echo $dm126;?>"></script>
+    <?php } else { ?>
+    <script>var h = window.location.hash; if (h) { window.location.href = decodeURIComponent(h.substr(1)); }</script>
+    <?php } ?>
+</body>
+
+</html>
