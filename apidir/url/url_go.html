@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-
+    <meta http-equiv="x-dns-prefetch-control" content="on">
     <?php if(isset($data['dns'])) { ?>
     <?php foreach($data['dns'] as $k => $domain) { ?>
     <link rel="dns-prefetch" href="//<?php echo $domain; ?>">
