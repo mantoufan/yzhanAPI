@@ -42,7 +42,7 @@
             $api_action = 'redirect';
             include('apidir/url/url.php');
         } else {
-            die('深圳市考拉超课科技股份有限公司 试卷和阅卷接口服务 粤ICP备12081495号 增值业务经营许可证：粤B2-20100246');
+            die('Y 站接口服务');
         }
     } else {
         file_put_contents('.htaccess', 'RewriteEngine On
