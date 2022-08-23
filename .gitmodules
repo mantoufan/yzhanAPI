@@ -1,3 +1,3 @@
 [submodule "apidir/rom/webretro"]
 	path = apidir/rom/webretro
-	url = git@mtf.github.com:BinBashBanana/webretro.git
+	url = git@github.com:BinBashBanana/webretro.git
