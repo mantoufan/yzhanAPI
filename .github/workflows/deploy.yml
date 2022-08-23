@@ -19,12 +19,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - name: Checkout submodules
-        uses: srt32/git-actions@v0.0.3
         with:
-          args: git submodule update --init --recursive
-      
+          submodules: true
+
       # Minify
       - name: Auto Minify
         uses: nizarmah/auto-minify@v2.1
