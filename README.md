@@ -41,7 +41,7 @@ For temporary testing only, pls do not use for other purposes
 ……
 ```
 ### Emulator 模拟器 
-[rom/webretro](https://api.yzhan.cyou/apidir/rom/webretro?system={system}&rom={rom})
+[rom/webretro](https://api.yzhan.cyou/apidir/rom/webretro/index.html?system=nes&rom={rom})
 #### Requst
 - system：nes / autodetect
 - rom: { rom url }
