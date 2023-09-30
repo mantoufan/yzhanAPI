@@ -30,7 +30,7 @@
                 if (!$des) {output('缺少参数 用途描述：des', $out_type, -1, array('jsonp_cb' => $g['jsonp_cb']));}
 
                 if (file_exists('apidir/' . $a[1] . '/' .$a[1]. '.php')) {
-                    $api_action = isset($a[2]) ? $a[2] : '';
+                    $api_action = isset($a[2]) ? reset(explode('&', $a[2])) : '';
                     init_database($api_name, $db);
                     include('apidir/' . $api_name . '/' .$api_name. '.php');
                     output('接口方法未找到', $out_type, -1, array('jsonp_cb' => $g['jsonp_cb']));
