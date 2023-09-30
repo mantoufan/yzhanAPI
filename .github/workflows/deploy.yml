@@ -36,7 +36,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
           # ftp server
-          server: c.y2.os120.com
+          server: c.y6.os120.com
           # ftp username
           username: ${{ secrets.FTP_USERNAME }}
           # ftp password
@@ -48,7 +48,7 @@ jobs:
           # Folder to upload from, must end with trailing slash /
           local-dir: ./
           # Path to upload to on the server. Must end with trailing slash /
-          server-dir: /wwwroot/apios120com/
+          server-dir: /
           # Prints which modifications will be made with current config options, but doesnt actually make any changes
           dry-run: false
           # Deletes ALL contents of server-dir, even items in excluded with exclude argument
