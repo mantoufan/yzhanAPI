@@ -11,7 +11,7 @@
         $q = reset($_tmp_ar);
 
         if (stripos($_SERVER['SERVER_NAME'], 'api.') !== FALSE) {
-            $q = 'api/' . $q;
+            $q = 'api/' . ltrim($q, '/');
         }
 
         $a = explode('/', $q);
