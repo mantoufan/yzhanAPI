@@ -18,7 +18,7 @@
         $bgs = $bgs[$g['theme']][$direciton];
         $bg = $bgs[array_rand($bgs)];
         $ext = strrchr($bg, '.');
-        $bg_img_path = 'https://cdn.mantoufan.com/' . str_replace($ext, '', $bg) . '_c_w_1280'.($ext ? '_ext_' . substr($ext, 1) : '').'.jpg';
+        $bg_img_path = 'https://s1.cdn00.com/' . str_replace($ext, '', $bg) . '_c_w_1280'.($ext ? '_ext_' . substr($ext, 1) : '').'.jpg';
     }
     if ($bg_img_path) {
         output('success', $out_type, 200, array('jsonp_cb' => $g['jsonp_cb'], 'data' => array('bg_img_path' => $url), 'txt' => $bg_img_path, 'redirect' => $bg_img_path));
